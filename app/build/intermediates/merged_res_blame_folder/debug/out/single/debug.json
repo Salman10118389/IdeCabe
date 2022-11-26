@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_keuangan.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_keuangan.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_google32.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/google32.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_sample.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/sample.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk6.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk6.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_image_home.PNG.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/image_home.PNG"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_slider1.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_slider1.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk7.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk7.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk2.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk2.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_top_bg.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_top_bg.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_topup.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_topup.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_fragment_home.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_google24.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/google24.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_item_photo.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/item_photo.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_fragment_project.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/fragment_project.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_perawatan_hewan.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_perawatan_hewan.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_addphotos.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_addphotos.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_product.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_product.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk5.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk5.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_gopay.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_gopay.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_activity_bottom_navigation.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/activity_bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk1.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk1.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_profile.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_profile.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk8.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk8.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_rumah_tangga.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_rumah_tangga.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_komputer.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_komputer.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk4.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk4.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_handphone.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_handphone.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_gogole48.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/gogole48.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_logo_brin.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/logo_brin.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_slider2.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_slider2.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_elektronik.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_elektronik.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_fragment_notifications.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_activity_project_detail.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/activity_project_detail.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_slider3.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_slider3.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/layout_item_project.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/layout/item_project.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_travel.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_travel.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_produk3.jpg.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_produk3.jpg"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "com.example.idecabe.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.idecabe.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-59:/drawable_asset_semua.png.flat",
+        "source": "com.example.idecabe.app-main-61:/drawable/asset_semua.png"
+    }
+]
