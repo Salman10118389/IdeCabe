@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/drawable/border_background.xml" value="0.16" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1455" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.2115036231884058" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_login.xml" value="0.1265625" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_project_detail.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_account.xml" value="0.4183206106870229" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_project.xml" value="0.264" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/item_photo.xml" value="1.0378787878787878" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/item_project.xml" value="0.264" />
+        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/vania/AndroidStudioProjects/IdeCabe-master/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/vania/AndroidStudioProjects/IdeCabe-master/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/vania/AndroidStudioProjects/IdeCabe-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

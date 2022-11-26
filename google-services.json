@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833848439155",
+    "project_id": "idecabe",
+    "storage_bucket": "idecabe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833848439155:android:57d595264f72ca60745506",
+        "android_client_info": {
+          "package_name": "com.example.idecabe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833848439155-jks7jrac8qihcg0pq83ag336p5aoqd5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1wYu8kIvGETSTx5eaBSAy0y6br4zTgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833848439155-jks7jrac8qihcg0pq83ag336p5aoqd5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
