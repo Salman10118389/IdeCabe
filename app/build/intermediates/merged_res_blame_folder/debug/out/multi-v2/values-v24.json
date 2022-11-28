@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-57:/values-v24/values-v24.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\d88d86673f1ffe385314a1b851d67541\\transformed\\appcompat-1.5.0\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\5ecf78887d09c8d5772bfd0d13860753\\transformed\\material-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\53cae172d2125b2b22e0185be171198e\\transformed\\material-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -33,7 +23,17 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\46b8714f6149cebfd2fa236eedfcdc01\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6cd75e2fa667daf3c4ab71996b56b377\\transformed\\appcompat-1.5.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\8eed189f0f1771bdb4e8b3e2f2a33491\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

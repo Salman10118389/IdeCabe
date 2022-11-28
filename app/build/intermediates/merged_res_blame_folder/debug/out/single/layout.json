@@ -1,38 +1,46 @@
 [
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/fragment_project.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/fragment_project.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/activity_login.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/activity_bottom_navigation.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/activity_bottom_navigation.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/fragment_dashboard.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/item_photo.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/item_photo.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/activity_main.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/fragment_home.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/fragment_home.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/fragment_notifications.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/fragment_notifications.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/activity_main.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/activity_main.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/item_project.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/item_project.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/item_project.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/item_project.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/fragment_account.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/fragment_account.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/fragment_notifications.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/fragment_notifications.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/item_photo.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/item_photo.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/activity_project_detail.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/activity_project_detail.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/activity_project_detail.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/activity_project_detail.xml"
     },
     {
-        "merged": "com.example.idecabe.app-mergeDebugResources-58:/layout/fragment_dashboard.xml",
-        "source": "com.example.idecabe.app-main-61:/layout/fragment_dashboard.xml"
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/fragment_home.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/activity_bottom_navigation.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/activity_bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-mergeDebugResources-64:/layout/fragment_project.xml",
+        "source": "com.example.idecabe.app-main-67:/layout/fragment_project.xml"
     }
 ]

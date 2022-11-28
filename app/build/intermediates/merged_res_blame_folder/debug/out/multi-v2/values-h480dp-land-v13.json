@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-57:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\5ecf78887d09c8d5772bfd0d13860753\\transformed\\material-1.6.1\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\53cae172d2125b2b22e0185be171198e\\transformed\\material-1.6.1\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

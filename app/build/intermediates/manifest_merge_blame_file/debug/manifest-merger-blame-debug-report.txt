@@ -11,86 +11,86 @@
 9-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:12:5-67
-11-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:12:22-64
+11-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:12:5-67
+11-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:12:22-64
 12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-12-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:13:5-76
-12-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:13:22-73
+12-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:13:5-76
+12-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:13:22-73
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:14:5-79
-13-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:14:22-76
+13-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:14:5-79
+13-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:14:22-76
 14    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
-14-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:15:5-17:47
-14-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\26590c1a7026e24a7d9b6930430416e0\transformed\MyHelper-2.0.9\AndroidManifest.xml:16:9-70
+14-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:15:5-17:47
+14-->[com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:16:9-70
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:9:5-80
-15-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:9:22-77
+15-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:9:5-80
+15-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:9:22-77
 16    <uses-permission
-16-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:10:5-12:38
+16-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:10:5-12:38
 17        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-17-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:11:9-65
+17-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:11:9-65
 18        android:maxSdkVersion="28" />
-18-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:12:9-35
+18-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:12:9-35
 19
 20    <queries>
-20-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:14:5-36:15
+20-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:14:5-36:15
 21
 22        <!-- Gallery -->
 23        <intent>
-23-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:17:9-23:18
+23-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:17:9-23:18
 24            <action android:name="android.intent.action.GET_CONTENT" />
-24-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:18:13-72
-24-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:18:21-69
+24-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:18:13-72
+24-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:18:21-69
 25
 26            <category android:name="android.intent.category.OPENABLE" />
-26-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:20:13-73
-26-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:20:23-70
+26-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:20:13-73
+26-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:20:23-70
 27
 28            <data android:mimeType="image/*" />
-28-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
-28-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:22:19-45
+28-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
+28-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:19-45
 29        </intent>
 30        <intent>
-30-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:24:9-28:18
+30-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:24:9-28:18
 31            <action android:name="android.intent.action.PICK" />
-31-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:25:13-65
-31-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:25:21-62
+31-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:25:13-65
+31-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:25:21-62
 32
 33            <data android:mimeType="image/*" />
-33-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
-33-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:22:19-45
+33-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
+33-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:19-45
 34        </intent>
 35        <intent>
-35-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:29:9-31:18
+35-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:29:9-31:18
 36            <action android:name="android.intent.action.CHOOSER" />
-36-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:30:13-68
-36-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:30:21-65
+36-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:30:13-68
+36-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:30:21-65
 37        </intent>
 38        <!-- Camera -->
 39        <intent>
-39-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:33:9-35:18
+39-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:33:9-35:18
 40            <action android:name="android.media.action.IMAGE_CAPTURE" />
-40-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:34:13-73
-40-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:34:21-70
+40-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:34:13-73
+40-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:34:21-70
 41        </intent>
 42    </queries>
 43
 44    <uses-permission android:name="android.permission.WAKE_LOCK" />
-44-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
-44-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+44-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+44-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
 45    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-45-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
-45-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+45-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+45-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
 46    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-46-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
-46-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+46-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+46-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
 47
 48    <application
-48-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:6:5-34:19
+48-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:6:5-35:19
 49        android:allowBackup="true"
 49-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:7:9-35
 50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-50-->[androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8d94b2d4c968cccf93c023125f36ce07\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+50-->[androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 51        android:dataExtractionRules="@xml/data_extraction_rules"
 51-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:8:9-65
 52        android:debuggable="true"
@@ -110,308 +110,448 @@
 60-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:14:9-45
 61        <activity
 61-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:16:9-18:40
-62            android:name="com.example.idecabe.ui.project_detail.ProjectDetail"
-62-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:17:13-60
+62            android:name="com.example.idecabe.LoginActivity"
+62-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:17:13-42
 63            android:exported="false" />
 63-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:18:13-37
 64        <activity
-64-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:19:9-28:20
-65            android:name="com.example.idecabe.BottomNavigationActivity"
-65-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:20:13-53
-66            android:exported="true"
-66-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:21:13-36
-67            android:label="@string/title_activity_bottom_navigation" >
-67-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:22:13-69
-68            <intent-filter>
-68-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:23:13-27:29
-69                <action android:name="android.intent.action.MAIN" />
-69-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:24:17-69
-69-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:24:25-66
-70
-71                <category android:name="android.intent.category.LAUNCHER" />
-71-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:26:17-77
-71-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:26:27-74
-72            </intent-filter>
-73        </activity>
-74        <activity
-74-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:29:9-33:20
-75            android:name="com.example.idecabe.MainActivity"
-75-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:30:13-41
-76            android:exported="true" >
-76-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:31:13-36
-77        </activity>
-78        <activity
-78-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:39:9-42:68
-79            android:name="com.github.drjacky.imagepicker.ImagePickerActivity"
-79-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:40:13-78
-80            android:screenOrientation="unspecified"
-80-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:41:13-52
-81            android:theme="@style/Theme.Transparent.ImagePicker" />
-81-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:42:13-65
-82        <activity
-82-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:43:9-46:72
-83            android:name="com.yalantis.ucrop.UCropActivity"
-83-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:44:13-60
-84            android:screenOrientation="portrait"
-84-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:45:13-49
-85            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-85-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:46:13-69
-86
-87        <provider
-87-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:48:9-56:20
-88            android:name="com.github.drjacky.imagepicker.ImagePickerFileProvider"
-88-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:49:13-82
-89            android:authorities="com.example.idecabe.imagepicker.provider"
-89-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:50:13-72
-90            android:exported="false"
-90-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:51:13-37
-91            android:grantUriPermissions="true" >
-91-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:52:13-47
-92            <meta-data
-92-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:53:13-55:71
-93                android:name="android.support.FILE_PROVIDER_PATHS"
-93-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:54:17-67
-94                android:resource="@xml/image_picker_provider_paths" />
-94-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\e6f857c3dc1bbf9bb51dce085899c238\transformed\ImagePicker-2.3.20\AndroidManifest.xml:55:17-68
-95        </provider>
-96
-97        <uses-library
-97-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e072ed3a26cc6cfdf078ef45fd271749\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-98            android:name="androidx.window.extensions"
-98-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e072ed3a26cc6cfdf078ef45fd271749\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-99            android:required="false" />
-99-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e072ed3a26cc6cfdf078ef45fd271749\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-100        <uses-library
-100-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e072ed3a26cc6cfdf078ef45fd271749\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-101            android:name="androidx.window.sidecar"
-101-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e072ed3a26cc6cfdf078ef45fd271749\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-102            android:required="false" />
-102-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e072ed3a26cc6cfdf078ef45fd271749\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-103
-104        <provider
-104-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\b77d2e1ec3216cd2d4747019cfb32b54\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-105            android:name="com.squareup.picasso.PicassoProvider"
-105-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\b77d2e1ec3216cd2d4747019cfb32b54\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
-106            android:authorities="com.example.idecabe.com.squareup.picasso"
-106-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\b77d2e1ec3216cd2d4747019cfb32b54\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
-107            android:exported="false" />
-107-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\b77d2e1ec3216cd2d4747019cfb32b54\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
-108        <provider
-108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-109            android:name="androidx.startup.InitializationProvider"
-109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-110            android:authorities="com.example.idecabe.androidx-startup"
-110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-111            android:exported="false" >
-111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-112            <meta-data
-112-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-113                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-113-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-114                android:value="androidx.startup" />
-114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\9b425293985808c0d59d3497ece9d0a8\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-115            <meta-data
-115-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
-116                android:name="androidx.work.WorkManagerInitializer"
-116-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
-117                android:value="androidx.startup" />
-117-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
-118            <meta-data
-118-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\399f00721873908e1418511feeb3a729\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-119                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-119-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\399f00721873908e1418511feeb3a729\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-120                android:value="androidx.startup" />
-120-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\399f00721873908e1418511feeb3a729\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-121        </provider>
-122
-123        <service
-123-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
-124            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
-124-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
-125            android:directBootAware="false"
-125-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
-126            android:enabled="@bool/enable_system_alarm_service_default"
-126-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
-127            android:exported="false" />
-127-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
-128        <service
-128-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
-129            android:name="androidx.work.impl.background.systemjob.SystemJobService"
-129-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
-130            android:directBootAware="false"
-130-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
-131            android:enabled="@bool/enable_system_job_service_default"
-131-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
-132            android:exported="true"
-132-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
-133            android:permission="android.permission.BIND_JOB_SERVICE" />
-133-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
-134        <service
-134-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
-135            android:name="androidx.work.impl.foreground.SystemForegroundService"
-135-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
-136            android:directBootAware="false"
-136-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
-137            android:enabled="@bool/enable_system_foreground_service_default"
-137-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
-138            android:exported="false" />
-138-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
-139
-140        <receiver
-140-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
-141            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
-141-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
-142            android:directBootAware="false"
-142-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
-143            android:enabled="true"
-143-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
-144            android:exported="false" />
-144-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
-145        <receiver
-145-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
-146            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
-146-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
-147            android:directBootAware="false"
-147-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
-148            android:enabled="false"
-148-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
-149            android:exported="false" >
-149-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
-150            <intent-filter>
-150-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
-151                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-151-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
-151-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
-152                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-152-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
-152-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
-153            </intent-filter>
-154        </receiver>
-155        <receiver
-155-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
-156            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
-156-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
-157            android:directBootAware="false"
-157-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
-158            android:enabled="false"
-158-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
-159            android:exported="false" >
-159-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
-160            <intent-filter>
-160-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
-161                <action android:name="android.intent.action.BATTERY_OKAY" />
-161-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
-161-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
-162                <action android:name="android.intent.action.BATTERY_LOW" />
-162-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
-162-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
-163            </intent-filter>
-164        </receiver>
-165        <receiver
-165-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
-166            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
-166-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
-167            android:directBootAware="false"
-167-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
-168            android:enabled="false"
-168-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
-169            android:exported="false" >
-169-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
-170            <intent-filter>
-170-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
-171                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
-171-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
-171-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
-172                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
-172-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
-172-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
-173            </intent-filter>
-174        </receiver>
-175        <receiver
-175-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
-176            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
-176-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
-177            android:directBootAware="false"
-177-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
-178            android:enabled="false"
-178-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
-179            android:exported="false" >
-179-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
-180            <intent-filter>
-180-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
-181                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-181-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
-181-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
-182            </intent-filter>
-183        </receiver>
-184        <receiver
-184-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
-185            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
-185-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
-186            android:directBootAware="false"
-186-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
-187            android:enabled="false"
-187-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
-188            android:exported="false" >
-188-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
-189            <intent-filter>
-189-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
-190                <action android:name="android.intent.action.BOOT_COMPLETED" />
-190-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
-190-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
-191                <action android:name="android.intent.action.TIME_SET" />
-191-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
-191-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
-192                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-192-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
-192-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
-193            </intent-filter>
-194        </receiver>
-195        <receiver
-195-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
-196            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
-196-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
-197            android:directBootAware="false"
-197-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
-198            android:enabled="@bool/enable_system_alarm_service_default"
-198-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
-199            android:exported="false" >
-199-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
-200            <intent-filter>
-200-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
-201                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
-201-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
-201-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
-202            </intent-filter>
-203        </receiver>
-204        <receiver
-204-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
-205            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
-205-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
-206            android:directBootAware="false"
-206-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
-207            android:enabled="true"
-207-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
-208            android:exported="true"
-208-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
-209            android:permission="android.permission.DUMP" >
-209-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
-210            <intent-filter>
-210-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
-211                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
-211-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
-211-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\884259c94b872cf130e189ee7a7a7528\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
-212            </intent-filter>
-213        </receiver>
-214
-215        <service
-215-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\4556aff1c2b5fc96e235b35582d0c500\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
-216            android:name="androidx.room.MultiInstanceInvalidationService"
-216-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\4556aff1c2b5fc96e235b35582d0c500\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
-217            android:directBootAware="true"
-217-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\4556aff1c2b5fc96e235b35582d0c500\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
-218            android:exported="false" />
-218-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\4556aff1c2b5fc96e235b35582d0c500\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
-219    </application>
-220
-221</manifest>
+64-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:19:9-21:40
+65            android:name="com.example.idecabe.ui.project_detail.ProjectDetail"
+65-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:20:13-60
+66            android:exported="false" />
+66-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:21:13-37
+67        <activity
+67-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:22:9-31:20
+68            android:name="com.example.idecabe.BottomNavigationActivity"
+68-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:23:13-53
+69            android:exported="true"
+69-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:24:13-36
+70            android:label="@string/title_activity_bottom_navigation" >
+70-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:25:13-69
+71            <intent-filter>
+71-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:26:13-30:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:27:17-69
+72-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:27:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:29:17-77
+74-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:29:27-74
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:32:9-34:48
+78            android:name="com.example.idecabe.MainActivity"
+78-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:33:13-41
+79            android:exported="true" />
+79-->G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:34:13-36
+80        <activity
+80-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:39:9-42:68
+81            android:name="com.github.drjacky.imagepicker.ImagePickerActivity"
+81-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:40:13-78
+82            android:screenOrientation="unspecified"
+82-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:41:13-52
+83            android:theme="@style/Theme.Transparent.ImagePicker" />
+83-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:42:13-65
+84        <activity
+84-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:43:9-46:72
+85            android:name="com.yalantis.ucrop.UCropActivity"
+85-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:44:13-60
+86            android:screenOrientation="portrait"
+86-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:45:13-49
+87            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+87-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:46:13-69
+88
+89        <provider
+89-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:48:9-56:20
+90            android:name="com.github.drjacky.imagepicker.ImagePickerFileProvider"
+90-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:49:13-82
+91            android:authorities="com.example.idecabe.imagepicker.provider"
+91-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:50:13-72
+92            android:exported="false"
+92-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:51:13-37
+93            android:grantUriPermissions="true" >
+93-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:52:13-47
+94            <meta-data
+94-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:53:13-55:71
+95                android:name="android.support.FILE_PROVIDER_PATHS"
+95-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:54:17-67
+96                android:resource="@xml/image_picker_provider_paths" />
+96-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:55:17-68
+97        </provider>
+98
+99        <uses-library
+99-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+100            android:name="androidx.window.extensions"
+100-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+101            android:required="false" />
+101-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+102        <uses-library
+102-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+103            android:name="androidx.window.sidecar"
+103-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+104            android:required="false" />
+104-->[androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+105
+106        <activity
+106-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+107            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+107-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+108            android:excludeFromRecents="true"
+108-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+109            android:exported="true"
+109-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+110            android:launchMode="singleTask"
+110-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+111-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+112            <intent-filter>
+112-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+113                <action android:name="android.intent.action.VIEW" />
+113-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+113-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+114
+115                <category android:name="android.intent.category.DEFAULT" />
+115-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+115-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+116                <category android:name="android.intent.category.BROWSABLE" />
+116-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+116-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+117
+118                <data
+118-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
+119                    android:host="firebase.auth"
+120                    android:path="/"
+121                    android:scheme="genericidp" />
+122            </intent-filter>
+123        </activity>
+124        <activity
+124-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+125            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+125-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+126            android:excludeFromRecents="true"
+126-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+127            android:exported="true"
+127-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+128            android:launchMode="singleTask"
+128-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+129            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+129-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+130            <intent-filter>
+130-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+131                <action android:name="android.intent.action.VIEW" />
+131-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+131-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+132
+133                <category android:name="android.intent.category.DEFAULT" />
+133-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+133-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+134                <category android:name="android.intent.category.BROWSABLE" />
+134-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+134-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+135
+136                <data
+136-->[com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
+137                    android:host="firebase.auth"
+138                    android:path="/"
+139                    android:scheme="recaptcha" />
+140            </intent-filter>
+141        </activity>
+142
+143        <service
+143-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+144            android:name="com.google.firebase.components.ComponentDiscoveryService"
+144-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:65:13-84
+145            android:directBootAware="true"
+145-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+146            android:exported="false" >
+146-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
+147            <meta-data
+147-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+148                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+148-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+150        </service>
+151
+152        <activity
+152-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+153            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+153-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+154            android:excludeFromRecents="true"
+154-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+155            android:exported="false"
+155-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+156            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+156-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+157        <!--
+158            Service handling Google Sign-In user revocation. For apps that do not integrate with
+159            Google Sign-In, this service will never be started.
+160        -->
+161        <service
+161-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+162            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+162-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+163            android:exported="true"
+163-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+164            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+164-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+165            android:visibleToInstantApps="true" />
+165-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+166
+167        <provider
+167-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+168            android:name="com.google.firebase.provider.FirebaseInitProvider"
+168-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+169            android:authorities="com.example.idecabe.firebaseinitprovider"
+169-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+170            android:directBootAware="true"
+170-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+171            android:exported="false"
+171-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+172            android:initOrder="100" />
+172-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+173
+174        <activity
+174-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+175            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+175-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+176            android:exported="false"
+176-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+177-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+178
+179        <meta-data
+179-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+180            android:name="com.google.android.gms.version"
+180-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+181            android:value="@integer/google_play_services_version" />
+181-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+182
+183        <provider
+183-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+184            android:name="com.squareup.picasso.PicassoProvider"
+184-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+185            android:authorities="com.example.idecabe.com.squareup.picasso"
+185-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+186            android:exported="false" />
+186-->[com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+187        <provider
+187-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+188            android:name="androidx.startup.InitializationProvider"
+188-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+189            android:authorities="com.example.idecabe.androidx-startup"
+189-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+190            android:exported="false" >
+190-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+191            <meta-data
+191-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+192                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+192-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+193                android:value="androidx.startup" />
+193-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+194            <meta-data
+194-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+195                android:name="androidx.work.WorkManagerInitializer"
+195-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+196                android:value="androidx.startup" />
+196-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+197            <meta-data
+197-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+198                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+198-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+199                android:value="androidx.startup" />
+199-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+200        </provider>
+201
+202        <service
+202-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+203            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+203-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+204            android:directBootAware="false"
+204-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+205            android:enabled="@bool/enable_system_alarm_service_default"
+205-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+206            android:exported="false" />
+206-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+207        <service
+207-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+208            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+208-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+209            android:directBootAware="false"
+209-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+210            android:enabled="@bool/enable_system_job_service_default"
+210-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+211            android:exported="true"
+211-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+212            android:permission="android.permission.BIND_JOB_SERVICE" />
+212-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+213        <service
+213-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+214            android:name="androidx.work.impl.foreground.SystemForegroundService"
+214-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+215            android:directBootAware="false"
+215-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+216            android:enabled="@bool/enable_system_foreground_service_default"
+216-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+217            android:exported="false" />
+217-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+218
+219        <receiver
+219-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+220            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+220-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+221            android:directBootAware="false"
+221-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+222            android:enabled="true"
+222-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+223            android:exported="false" />
+223-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+224        <receiver
+224-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+225            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+225-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+226            android:directBootAware="false"
+226-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+227            android:enabled="false"
+227-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+228            android:exported="false" >
+228-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+229            <intent-filter>
+229-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+230                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+230-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+230-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+231                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+231-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+231-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+232            </intent-filter>
+233        </receiver>
+234        <receiver
+234-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+235            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+235-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+236            android:directBootAware="false"
+236-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+237            android:enabled="false"
+237-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+238            android:exported="false" >
+238-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+239            <intent-filter>
+239-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+240                <action android:name="android.intent.action.BATTERY_OKAY" />
+240-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+240-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+241                <action android:name="android.intent.action.BATTERY_LOW" />
+241-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+241-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+242            </intent-filter>
+243        </receiver>
+244        <receiver
+244-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+245            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+245-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+246            android:directBootAware="false"
+246-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+247            android:enabled="false"
+247-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+248            android:exported="false" >
+248-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+249            <intent-filter>
+249-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+250                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+250-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+250-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+251                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+251-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+251-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+252            </intent-filter>
+253        </receiver>
+254        <receiver
+254-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+255            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+255-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+256            android:directBootAware="false"
+256-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+257            android:enabled="false"
+257-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+258            android:exported="false" >
+258-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+259            <intent-filter>
+259-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+260                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+260-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+260-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+261            </intent-filter>
+262        </receiver>
+263        <receiver
+263-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+264            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+264-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+265            android:directBootAware="false"
+265-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+266            android:enabled="false"
+266-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+267            android:exported="false" >
+267-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+268            <intent-filter>
+268-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+269                <action android:name="android.intent.action.BOOT_COMPLETED" />
+269-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+269-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+270                <action android:name="android.intent.action.TIME_SET" />
+270-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+270-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+271                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+271-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+271-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+272            </intent-filter>
+273        </receiver>
+274        <receiver
+274-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+275            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+275-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+276            android:directBootAware="false"
+276-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+277            android:enabled="@bool/enable_system_alarm_service_default"
+277-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+278            android:exported="false" >
+278-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+279            <intent-filter>
+279-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+280                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+280-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+280-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+281            </intent-filter>
+282        </receiver>
+283        <receiver
+283-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+284            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+284-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+285            android:directBootAware="false"
+285-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+286            android:enabled="true"
+286-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+287            android:exported="true"
+287-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+288            android:permission="android.permission.DUMP" >
+288-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+289            <intent-filter>
+289-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+290                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+290-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+290-->[androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+291            </intent-filter>
+292        </receiver>
+293
+294        <service
+294-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+295            android:name="androidx.room.MultiInstanceInvalidationService"
+295-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+296            android:directBootAware="true"
+296-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+297            android:exported="false" />
+297-->[androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+298    </application>
+299
+300</manifest>
