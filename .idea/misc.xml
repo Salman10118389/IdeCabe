@@ -8,13 +8,22 @@
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.2115036231884058" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_login.xml" value="0.1265625" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_project_detail.xml" value="0.24818840579710144" />
+<<<<<<< HEAD
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_register.xml" value="0.24818840579710144" />
+=======
+>>>>>>> 7233b80a2b23fff4a029c596ced34644c6e4a0d8
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_account.xml" value="0.4183206106870229" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_project.xml" value="0.264" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/item_photo.xml" value="1.0378787878787878" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/item_project.xml" value="0.264" />
         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
+<<<<<<< HEAD
+=======
+        <entry key="..\:/Users/vania/AndroidStudioProjects/IdeCabe-master/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/vania/AndroidStudioProjects/IdeCabe-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/vania/AndroidStudioProjects/IdeCabe-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14" />
+>>>>>>> 7233b80a2b23fff4a029c596ced34644c6e4a0d8
       </map>
     </option>
   </component>

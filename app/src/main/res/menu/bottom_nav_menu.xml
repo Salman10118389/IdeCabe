@@ -12,6 +12,14 @@
         android:title="@string/title_dashboard" />
 
     <item
+<<<<<<< HEAD
+=======
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Notifications" />
+
+    <item
+>>>>>>> 7233b80a2b23fff4a029c596ced34644c6e4a0d8
         android:id="@+id/navigation_account"
         android:icon="@drawable/ic_baseline_person_outline_24"
         android:title="Account" />
