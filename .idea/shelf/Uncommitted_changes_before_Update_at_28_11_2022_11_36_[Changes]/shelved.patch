@@ -1,0 +1,93 @@
+Index: app/src/main/java/com/example/idecabe/ui/register/RegisterActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/idecabe/ui/register/RegisterActivity.kt b/app/src/main/java/com/example/idecabe/ui/register/RegisterActivity.kt
+new file mode 100644
+--- /dev/null	(date 1669432818534)
++++ b/app/src/main/java/com/example/idecabe/ui/register/RegisterActivity.kt	(date 1669432818534)
+@@ -0,0 +1,14 @@
++package com.example.idecabe.ui.register
++
++import androidx.appcompat.app.AppCompatActivity
++import android.os.Bundle
++import com.example.idecabe.R
++
++class RegisterActivity : AppCompatActivity() {
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        setContentView(R.layout.activity_register)
++
++
++    }
++}
+\ No newline at end of file
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\r\n    xmlns:tools=\"http://schemas.android.com/tools\"\r\n    package=\"com.example.idecabe\">\r\n\r\n    <application\r\n        android:allowBackup=\"true\"\r\n        android:dataExtractionRules=\"@xml/data_extraction_rules\"\r\n        android:fullBackupContent=\"@xml/backup_rules\"\r\n        android:icon=\"@mipmap/ic_launcher\"\r\n        android:label=\"@string/app_name\"\r\n        android:roundIcon=\"@mipmap/ic_launcher_round\"\r\n        android:supportsRtl=\"true\"\r\n        android:theme=\"@style/Theme.IdeCabe\"\r\n        tools:targetApi=\"31\">\r\n        <activity\r\n            android:name=\".LoginActivity\"\r\n            android:exported=\"false\" />\r\n        <activity\r\n            android:name=\".ui.project_detail.ProjectDetail\"\r\n            android:exported=\"false\" />\r\n        <activity\r\n            android:name=\".BottomNavigationActivity\"\r\n            android:exported=\"true\"\r\n            android:label=\"@string/title_activity_bottom_navigation\">\r\n            <intent-filter>\r\n                <action android:name=\"android.intent.action.MAIN\" />\r\n\r\n                <category android:name=\"android.intent.category.LAUNCHER\" />\r\n            </intent-filter>\r\n        </activity>\r\n        <activity\r\n            android:name=\".MainActivity\"\r\n            android:exported=\"true\"></activity>\r\n    </application>\r\n\r\n</manifest>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/AndroidManifest.xml b/app/src/main/AndroidManifest.xml
+--- a/app/src/main/AndroidManifest.xml	(revision cd055d98e0ec6b7869e7bb16edd33ccc3b5a90af)
++++ b/app/src/main/AndroidManifest.xml	(date 1669432048647)
+@@ -14,6 +14,9 @@
+         android:theme="@style/Theme.IdeCabe"
+         tools:targetApi="31">
+         <activity
++            android:name=".RegisterActivity"
++            android:exported="false" />
++        <activity
+             android:name=".LoginActivity"
+             android:exported="false" />
+         <activity
+@@ -31,7 +34,7 @@
+         </activity>
+         <activity
+             android:name=".MainActivity"
+-            android:exported="true"></activity>
++            android:exported="true" />
+     </application>
+ 
+ </manifest>
+\ No newline at end of file
+Index: app/src/main/res/layout/activity_register.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_register.xml b/app/src/main/res/layout/activity_register.xml
+new file mode 100644
+--- /dev/null	(date 1669432049069)
++++ b/app/src/main/res/layout/activity_register.xml	(date 1669432049069)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="utf-8"?>
++<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    xmlns:tools="http://schemas.android.com/tools"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    tools:context=".ui.register.RegisterActivity">
++
++</androidx.constraintlayout.widget.ConstraintLayout>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"DesignSurface\">\r\n    <option name=\"filePathToZoomLevelMap\">\r\n      <map>\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/drawable/border_background.xml\" value=\"0.16\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/drawable/ic_dashboard_black_24dp.xml\" value=\"0.1455\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_bottom_navigation.xml\" value=\"0.2115036231884058\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_login.xml\" value=\"0.1265625\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_project_detail.xml\" value=\"0.24818840579710144\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_account.xml\" value=\"0.4183206106870229\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_home.xml\" value=\"0.2\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_project.xml\" value=\"0.264\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/item_photo.xml\" value=\"1.0378787878787878\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/layout/item_project.xml\" value=\"0.264\" />\r\n        <entry key=\"..\\:/AndroidPractice/IdeCabe/app/src/main/res/menu/bottom_nav_menu.xml\" value=\"0.27447916666666666\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"1.8\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\r\n  </component>\r\n  <component name=\"ProjectType\">\r\n    <option name=\"id\" value=\"Android\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision cd055d98e0ec6b7869e7bb16edd33ccc3b5a90af)
++++ b/.idea/misc.xml	(date 1669433243962)
+@@ -8,6 +8,7 @@
+         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.2115036231884058" />
+         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_login.xml" value="0.1265625" />
+         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_project_detail.xml" value="0.24818840579710144" />
++        <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/activity_register.xml" value="0.24818840579710144" />
+         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_account.xml" value="0.4183206106870229" />
+         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+         <entry key="..\:/AndroidPractice/IdeCabe/app/src/main/res/layout/fragment_project.xml" value="0.264" />
