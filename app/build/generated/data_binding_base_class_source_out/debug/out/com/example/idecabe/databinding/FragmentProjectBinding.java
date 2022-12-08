@@ -4,9 +4,9 @@ package com.example.idecabe.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.Spinner;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -31,19 +31,37 @@ public final class FragmentProjectBinding implements ViewBinding {
   public final TextView createNewProject;
 
   @NonNull
-  public final Spinner maskingSelection;
+  public final EditText etCollaborator;
+
+  @NonNull
+  public final EditText etLabel;
+
+  @NonNull
+  public final EditText etMaskingSelection;
+
+  @NonNull
+  public final EditText etProjectName;
+
+  @NonNull
+  public final ImageView iconProject;
 
   @NonNull
   public final TextView textDashboard;
 
   private FragmentProjectBinding(@NonNull LinearLayout rootView, @NonNull ImageView backArrow,
       @NonNull TextView choose, @NonNull TextView createNewProject,
-      @NonNull Spinner maskingSelection, @NonNull TextView textDashboard) {
+      @NonNull EditText etCollaborator, @NonNull EditText etLabel,
+      @NonNull EditText etMaskingSelection, @NonNull EditText etProjectName,
+      @NonNull ImageView iconProject, @NonNull TextView textDashboard) {
     this.rootView = rootView;
     this.backArrow = backArrow;
     this.choose = choose;
     this.createNewProject = createNewProject;
-    this.maskingSelection = maskingSelection;
+    this.etCollaborator = etCollaborator;
+    this.etLabel = etLabel;
+    this.etMaskingSelection = etMaskingSelection;
+    this.etProjectName = etProjectName;
+    this.iconProject = iconProject;
     this.textDashboard = textDashboard;
   }
 
@@ -92,9 +110,33 @@ public final class FragmentProjectBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.maskingSelection;
-      Spinner maskingSelection = ViewBindings.findChildViewById(rootView, id);
-      if (maskingSelection == null) {
+      id = R.id.et_collaborator;
+      EditText etCollaborator = ViewBindings.findChildViewById(rootView, id);
+      if (etCollaborator == null) {
+        break missingId;
+      }
+
+      id = R.id.et_label;
+      EditText etLabel = ViewBindings.findChildViewById(rootView, id);
+      if (etLabel == null) {
+        break missingId;
+      }
+
+      id = R.id.et_maskingSelection;
+      EditText etMaskingSelection = ViewBindings.findChildViewById(rootView, id);
+      if (etMaskingSelection == null) {
+        break missingId;
+      }
+
+      id = R.id.et_project_name;
+      EditText etProjectName = ViewBindings.findChildViewById(rootView, id);
+      if (etProjectName == null) {
+        break missingId;
+      }
+
+      id = R.id.icon_project;
+      ImageView iconProject = ViewBindings.findChildViewById(rootView, id);
+      if (iconProject == null) {
         break missingId;
       }
 
@@ -105,7 +147,8 @@ public final class FragmentProjectBinding implements ViewBinding {
       }
 
       return new FragmentProjectBinding((LinearLayout) rootView, backArrow, choose,
-          createNewProject, maskingSelection, textDashboard);
+          createNewProject, etCollaborator, etLabel, etMaskingSelection, etProjectName, iconProject,
+          textDashboard);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

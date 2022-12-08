@@ -59,15 +59,8 @@
         android:testOnly="true"
         android:theme="@style/Theme.IdeCabe" >
         <activity
-            android:name="com.example.idecabe.LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.idecabe.ui.project_detail.ProjectDetail"
-            android:exported="false" />
-        <activity
-            android:name="com.example.idecabe.BottomNavigationActivity"
-            android:exported="true"
-            android:label="@string/title_activity_bottom_navigation" >
+            android:name="com.example.idecabe.ui.SplashAcytivity.SplashActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -75,8 +68,27 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.example.idecabe.ui.register.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.idecabe.ui.auth.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.idecabe.ui.project_detail.ProjectDetail"
+            android:exported="false" />
+        <activity
+            android:name="com.example.idecabe.BottomNavigationActivity"
+            android:exported="true"
+            android:label="@string/title_activity_bottom_navigation" >
+        </activity>
+        <activity
             android:name="com.example.idecabe.MainActivity"
             android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
         <activity
             android:name="com.github.drjacky.imagepicker.ImagePickerActivity"
             android:screenOrientation="unspecified"
@@ -146,6 +158,9 @@
             android:exported="false" >
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 

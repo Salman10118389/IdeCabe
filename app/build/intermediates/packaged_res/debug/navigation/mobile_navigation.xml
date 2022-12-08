@@ -14,8 +14,8 @@
     <fragment
         android:id="@+id/navigation_project"
         android:name="com.example.idecabe.ui.project.ProjectFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:label="Create Project"
+        tools:layout="@layout/fragment_project" />
 
     <fragment
         android:id="@+id/navigation_account"

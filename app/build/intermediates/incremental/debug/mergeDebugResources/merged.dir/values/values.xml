@@ -25,8 +25,8 @@
         <item>Neptune</item>
     </string-array>
     <array name="preloaded_fonts" translatable="false">
-        <item>@font/montserrat_bold</item>
-        <item>@font/montserrat_regular</item>
+        <item>@font/</item>
+        <item>@font/exo_2</item>
     </array>
     <attr format="enum" name="animateCircleAngleTo">
         <enum name="bestChoice" value="0"/>
@@ -5938,6 +5938,21 @@
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
     <style name="EmptyTheme"/>
+    <style name="LoginTextInputInnerFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="LoginTextInputOuterFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
     <style name="Material.OutlineBox" parent="">
         <item name="strokeColor">@color/mtrl_btn_stroke_color_selector</item>
         <item name="strokeWidth">@dimen/mtrl_btn_stroke_size</item>

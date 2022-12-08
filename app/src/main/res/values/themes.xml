@@ -13,8 +13,6 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
-<<<<<<< HEAD
-=======
 
     <style name="LoginTextInputOuterFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
         <item name="android:layout_width">match_parent</item>
@@ -32,5 +30,4 @@
         <item name="android:textSize">14sp</item>
         <item name="android:singleLine">true</item>
     </style>
->>>>>>> 7233b80a2b23fff4a029c596ced34644c6e4a0d8
 </resources>

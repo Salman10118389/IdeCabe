@@ -76,6 +76,14 @@
         "source": "com.example.idecabe.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.example.idecabe.app-merged_res-65:/layout_activity_register.xml.flat",
+        "source": "com.example.idecabe.app-main-67:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-65:/drawable_splash_image.PNG.flat",
+        "source": "com.example.idecabe.app-main-67:/drawable/splash_image.PNG"
+    },
+    {
         "merged": "com.example.idecabe.app-merged_res-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.idecabe.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
     },
@@ -102,6 +110,18 @@
     {
         "merged": "com.example.idecabe.app-merged_res-65:/drawable_ic_baseline_add_24.xml.flat",
         "source": "com.example.idecabe.app-main-67:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-65:/font_exo_2.xml.flat",
+        "source": "com.example.idecabe.app-main-67:/font/exo_2.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-65:/drawable_img_1.png.flat",
+        "source": "com.example.idecabe.app-main-67:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-65:/drawable_img.png.flat",
+        "source": "com.example.idecabe.app-main-67:/drawable/img.png"
     },
     {
         "merged": "com.example.idecabe.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -142,6 +162,10 @@
     {
         "merged": "com.example.idecabe.app-merged_res-65:/drawable_asset_gopay.png.flat",
         "source": "com.example.idecabe.app-main-67:/drawable/asset_gopay.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-65:/layout_activity_splash.xml.flat",
+        "source": "com.example.idecabe.app-main-67:/layout/activity_splash.xml"
     },
     {
         "merged": "com.example.idecabe.app-merged_res-65:/mipmap-xhdpi_ic_launcher.webp.flat",
