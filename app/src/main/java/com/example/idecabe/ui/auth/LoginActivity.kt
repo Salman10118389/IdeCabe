@@ -9,6 +9,7 @@ import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import com.example.idecabe.BottomNavigationActivity
 import com.example.idecabe.R
+import com.example.idecabe.databinding.ActivityLoginBinding
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
@@ -19,11 +20,14 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
 
 class LoginActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityLoginBinding
     private lateinit var auth : FirebaseAuth
     private lateinit var googleSignInClient : GoogleSignInClient
+    private lateinit var email: String
+    private lateinit var password: String
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
+        setContentView(binding.root)
 
         auth = FirebaseAuth.getInstance()
 
@@ -38,8 +42,26 @@ class LoginActivity : AppCompatActivity() {
             signInGoogle()
         }
 
+        email = binding.email.text.toString()
+        password = binding.pass.text.toString()
 
 }
+    private fun signInEmail(email: String, password: String){
+        if(email.isNotEmpty() && password.isNotEmpty()){
+            auth.signInWithEmailAndPassword(email, password).addOnCompleteListener({
+                if (it.isSuccessful){
+                    Toast.makeText(this, "Anda berhasil Login", Toast.LENGTH_LONG)
+                    val intent = Intent(this, BottomNavigationActivity::class.java)
+                    startActivity(intent)
+                    finish()
+                }else {
+                    Toast.makeText(this, it.exception.toString(), Toast.LENGTH_LONG)
+                }
+            })
+        }else{
+            Toast.makeText(this, "Tolong lengkapi email & password anda", Toast.LENGTH_LONG)
+        }
+    }
     private fun signInGoogle(){
         val signInIntent = googleSignInClient.signInIntent
         launcher.launch(signInIntent)

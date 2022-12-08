@@ -58,5 +58,11 @@ class RegisterActivity : AppCompatActivity() {
                 Toast.makeText(this, "Please fill the empty fields !!", Toast.LENGTH_SHORT).show()
             }
         })
+
+        binding.tvLogin.setOnClickListener({
+            val intent = Intent(this, LoginActivity::class.java)
+            startActivity(intent)
+            finish()
+        })
     }
 }
