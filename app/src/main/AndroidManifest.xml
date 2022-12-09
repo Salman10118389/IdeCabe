@@ -14,8 +14,11 @@
         android:theme="@style/Theme.IdeCabe"
         tools:targetApi="31">
         <activity
+            android:name=".ProjectActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.SplashAcytivity.SplashActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -34,8 +37,7 @@
         <activity
             android:name=".BottomNavigationActivity"
             android:exported="true"
-            android:label="@string/title_activity_bottom_navigation">
-        </activity>
+            android:label="@string/title_activity_bottom_navigation"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true" />
@@ -44,4 +46,5 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
     </application>
+
 </manifest>

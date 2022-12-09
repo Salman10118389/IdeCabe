@@ -42,6 +42,8 @@ class ProjectFragment : Fragment() {
             textView.text = it
         }
 
+        projectViewModel.sendData()
+
         // Create an ArrayAdapter using the string array and a default spinner layout
         context?.let {
             ArrayAdapter.createFromResource(
@@ -56,6 +58,7 @@ class ProjectFragment : Fragment() {
             }
         }
         return root
+
     }
 
     override fun onDestroyView() {

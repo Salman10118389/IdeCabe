@@ -45,6 +45,8 @@ class LoginActivity : AppCompatActivity() {
         email = binding.email.text.toString()
         password = binding.pass.text.toString()
 
+        signInEmail(email, password)
+
 }
     private fun signInEmail(email: String, password: String){
         if(email.isNotEmpty() && password.isNotEmpty()){
@@ -100,5 +102,9 @@ class LoginActivity : AppCompatActivity() {
 
             }
         }
+    }
+
+    inner class encrypt(email: String, password: String){
+
     }
 }
