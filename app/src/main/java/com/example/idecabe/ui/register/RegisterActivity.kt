@@ -6,14 +6,18 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.lifecycle.withStarted
+import com.example.idecabe.BottomNavigationActivity
 import com.example.idecabe.R
 import com.example.idecabe.databinding.ActivityRegisterBinding
 import com.example.idecabe.ui.auth.LoginActivity
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 
 class RegisterActivity : AppCompatActivity() {
     private lateinit var binding: ActivityRegisterBinding
+    private val firebaseAuth = FirebaseAuth.getInstance()
+    private val firestore = FirebaseFirestore.getInstance()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -73,5 +77,7 @@ class RegisterActivity : AppCompatActivity() {
         intent = Intent(this, LoginActivity::class.java)
         startActivity(intent)
     }
+
+
     
 }

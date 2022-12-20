@@ -1,5 +1,6 @@
 package com.example.idecabe
 
+import android.content.Intent
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
@@ -8,10 +9,16 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.idecabe.databinding.ActivityBottomNavigationBinding
+import com.example.idecabe.ui.register.RegisterActivity
+import com.google.android.gms.tasks.OnCompleteListener
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 
 class BottomNavigationActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityBottomNavigationBinding
+    private val firebaseAuth = FirebaseAuth.getInstance()
+    private val firestore = FirebaseFirestore.getInstance()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -31,5 +38,16 @@ class BottomNavigationActivity : AppCompatActivity() {
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
+
+        onsStart()
+    }
+
+    private fun onsStart(){
+        val currentUser = firebaseAuth.currentUser
+
+        if (currentUser == null){
+            val intentToRegister = Intent(this, RegisterActivity::class.java)
+            startActivity(intentToRegister)
+        }
     }
 }

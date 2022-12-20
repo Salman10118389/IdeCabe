@@ -36,6 +36,10 @@ class LoginActivity : AppCompatActivity() {
 
         auth = FirebaseAuth.getInstance()
 
+        binding.buttonLogin.setOnClickListener({
+            signInEmail(email, password)
+        })
+
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
             .requestIdToken(getString(R.string.default_web_client_id))
             .requestEmail()
@@ -49,12 +53,6 @@ class LoginActivity : AppCompatActivity() {
 
         email = binding.email.text.toString()
         password = binding.pass.text.toString()
-
-        binding.buttonLogin.setOnClickListener({
-            signInEmail(email, password)
-        })
-
-
 }
     private fun signInEmail(email: String, password: String){
         if(email.isNotEmpty() && password.isNotEmpty()){
@@ -63,7 +61,6 @@ class LoginActivity : AppCompatActivity() {
                     Toast.makeText(this, "Anda berhasil Login", Toast.LENGTH_LONG)
                     val intent = Intent(this, BottomNavigationActivity::class.java)
                     startActivity(intent)
-                    finish()
                 }else {
                     Toast.makeText(this, it.exception.toString(), Toast.LENGTH_LONG)
                 }
@@ -111,7 +108,6 @@ class LoginActivity : AppCompatActivity() {
             }
         }
     }
-
     inner class encrypt(email: String, password: String){
 
     }
