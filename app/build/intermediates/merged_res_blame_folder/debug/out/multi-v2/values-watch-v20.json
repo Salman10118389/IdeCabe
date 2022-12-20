@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\977d44c0949970249f5e25f0cde66458\\transformed\\jetified-play-services-auth-20.3.0\\res\\values-watch-v20\\values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6cd75e2fa667daf3c4ab71996b56b377\\transformed\\appcompat-1.5.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\b268d273b50944daf29f25ce593ac23b\\transformed\\appcompat-1.4.2\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

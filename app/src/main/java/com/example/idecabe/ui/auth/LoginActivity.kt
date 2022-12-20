@@ -10,6 +10,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import com.example.idecabe.BottomNavigationActivity
 import com.example.idecabe.R
 import com.example.idecabe.databinding.ActivityLoginBinding
+import com.example.idecabe.databinding.ActivityRegisterBinding
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
@@ -27,7 +28,11 @@ class LoginActivity : AppCompatActivity() {
     private lateinit var password: String
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        binding = ActivityLoginBinding.inflate(layoutInflater)
+
         setContentView(binding.root)
+
+        supportActionBar?.hide()
 
         auth = FirebaseAuth.getInstance()
 
@@ -45,7 +50,10 @@ class LoginActivity : AppCompatActivity() {
         email = binding.email.text.toString()
         password = binding.pass.text.toString()
 
-        signInEmail(email, password)
+        binding.buttonLogin.setOnClickListener({
+            signInEmail(email, password)
+        })
+
 
 }
     private fun signInEmail(email: String, password: String){

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-it-rIT/values-it-rIT.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-it-rIT/values-it-rIT.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\dee628c4f4a9711e44e304bedf6748dd\\transformed\\jetified-ImagePicker-2.3.20\\res\\values-it-rIT\\values-it-rIT.xml",

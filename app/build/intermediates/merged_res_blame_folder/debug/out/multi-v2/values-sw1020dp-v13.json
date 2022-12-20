@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-sw1020dp-v13/values-sw1020dp-v13.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-sw1020dp-v13/values-sw1020dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\933da33467e74e9473dfe07fb0d08901\\transformed\\jetified-ssp-android-1.1.0\\res\\values-sw1020dp-v13\\values-sw1020dp-v13.xml",

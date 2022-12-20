@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-v23/values-v23.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\53cae172d2125b2b22e0185be171198e\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
@@ -33,14 +33,14 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6cd75e2fa667daf3c4ab71996b56b377\\transformed\\appcompat-1.5.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\b268d273b50944daf29f25ce593ac23b\\transformed\\appcompat-1.4.2\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
                         "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
                         "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
                     },
                     "to": {
                         "startLines": "4,5,6,7,8,22,36,37,38,41,45,46,47,48",

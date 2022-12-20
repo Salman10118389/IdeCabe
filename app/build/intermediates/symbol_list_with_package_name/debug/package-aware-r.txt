@@ -286,6 +286,10 @@ attr circularflow_defaultAngle
 attr circularflow_defaultRadius
 attr circularflow_radiusInDP
 attr circularflow_viewCenter
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr clearTop
 attr clearsTag
 attr clickAction
@@ -386,6 +390,7 @@ attr cornerFamilyBottomRight
 attr cornerFamilyTopLeft
 attr cornerFamilyTopRight
 attr cornerRadius
+attr cornerShape
 attr cornerSize
 attr cornerSizeBottomLeft
 attr cornerSizeBottomRight
@@ -397,6 +402,45 @@ attr counterOverflowTextAppearance
 attr counterOverflowTextColor
 attr counterTextAppearance
 attr counterTextColor
+attr cropAspectRatioX
+attr cropAspectRatioY
+attr cropAutoZoomEnabled
+attr cropBackgroundColor
+attr cropBorderCornerColor
+attr cropBorderCornerLength
+attr cropBorderCornerOffset
+attr cropBorderCornerThickness
+attr cropBorderLineColor
+attr cropBorderLineThickness
+attr cropCenterMoveEnabled
+attr cropCornerCircleFillColor
+attr cropCornerRadius
+attr cropFixAspectRatio
+attr cropFlipHorizontally
+attr cropFlipVertically
+attr cropGuidelines
+attr cropGuidelinesColor
+attr cropGuidelinesThickness
+attr cropInitialCropWindowPaddingRatio
+attr cropMaxCropResultHeightPX
+attr cropMaxCropResultWidthPX
+attr cropMaxZoom
+attr cropMinCropResultHeightPX
+attr cropMinCropResultWidthPX
+attr cropMinCropWindowHeight
+attr cropMinCropWindowWidth
+attr cropMultiTouchEnabled
+attr cropSaveBitmapToInstanceState
+attr cropScaleType
+attr cropShape
+attr cropShowCropOverlay
+attr cropShowLabel
+attr cropShowProgressBar
+attr cropSnapRadius
+attr cropTouchRadius
+attr cropperLabelText
+attr cropperLabelTextColor
+attr cropperLabelTextSize
 attr crossfade
 attr currentState
 attr curveFit
@@ -3715,6 +3759,7 @@ drawable ic_cloud_yellow
 drawable ic_dashboard_black_24dp
 drawable ic_delete_
 drawable ic_error_
+drawable ic_flip_24
 drawable ic_home_black_24dp
 drawable ic_info_blue
 drawable ic_info_yellow
@@ -3732,6 +3777,8 @@ drawable ic_no_internet
 drawable ic_notifications_black_24dp
 drawable ic_photo_black_48dp
 drawable ic_photo_camera_black_48dp
+drawable ic_rotate_left_24
+drawable ic_rotate_right_24
 drawable ic_search
 drawable ic_warning_yellow
 drawable image_home
@@ -3821,7 +3868,10 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id CropOverlayView
+id CropProgressBar
 id FUNCTION
+id ImageView_image
 id META
 id NO_DEBUG
 id SHIFT
@@ -3931,8 +3981,10 @@ id btnUploadImages
 id btn_close
 id btn_confirm
 id btn_register
+id btn_save
 id btn_simpan
 id button
+id buttonLogin
 id buttonPanel
 id buttons_container
 id cache_measures
@@ -3986,6 +4038,8 @@ id coordinator
 id cos
 id counterclockwise
 id create_new_project
+id cropImageView
+id crop_image_menu_crop
 id currentState
 id custom
 id customPanel
@@ -4085,6 +4139,7 @@ id give_us_a_review_landmine_button
 id give_us_a_review_landmine_main_layout
 id give_us_a_review_landmine_text_1
 id give_us_a_review_landmine_text_2
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -4098,6 +4153,11 @@ id home
 id homeAsUp
 id honorRequest
 id horizontal_only
+id ic_flip_24
+id ic_flip_24_horizontally
+id ic_flip_24_vertically
+id ic_rotate_left_24
+id ic_rotate_right_24
 id icon
 id icon_group
 id icon_only
@@ -4237,8 +4297,10 @@ id nowrap
 id off
 id on
 id onInterceptTouchReturnSwipe
+id onTouch
 id outline
 id outward
+id oval
 id overshoot
 id packed
 id parallax
@@ -4270,6 +4332,9 @@ id progress_dialog
 id progress_horizontal
 id radio
 id ratio
+id rectangle
+id rectangleHorizontalOnly
+id rectangleVerticalOnly
 id rectangles
 id reverseSawtooth
 id right
@@ -4421,6 +4486,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tv_conifrm
+id tv_login
 id tv_subtitle
 id tv_title
 id ucrop
@@ -4558,12 +4624,15 @@ layout abc_tooltip
 layout activity_bottom_navigation
 layout activity_login
 layout activity_main
+layout activity_project
 layout activity_project_detail
 layout activity_register
 layout activity_splash
 layout alert_dialog
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
+layout crop_image_activity
+layout crop_image_view
 layout custom_dialog
 layout date_picker
 layout date_time_picker
@@ -4695,6 +4764,7 @@ layout view_date_picker
 layout view_dialog_confirm
 layout view_loading
 menu bottom_nav_menu
+menu crop_image_menu
 menu ucrop_menu_activity
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -4762,6 +4832,9 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string copy_toast_msg
+string crop_image_activity_no_permissions
+string crop_image_activity_title
+string crop_image_menu_crop
 string date_picker
 string default_progressbar
 string default_web_client_id
@@ -4787,6 +4860,11 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
+string ic_flip_24
+string ic_flip_24_horizontally
+string ic_flip_24_vertically
+string ic_rotate_left_24
+string ic_rotate_right_24
 string icon_content_description
 string image_picker_provider_authority_suffix
 string item_view_role_description
@@ -4878,6 +4956,9 @@ string permission_camera_extended_denied
 string permission_dialog_message
 string permission_gallery_denied
 string permission_warning_dialog
+string pick_image_camera
+string pick_image_chooser_title
+string pick_image_gallery
 string project_id
 string search_menu_title
 string simpan
@@ -6029,6 +6110,7 @@ styleable Carousel carousel_backwardTransition carousel_emptyViewsBehavior carou
 styleable CheckedTextView android_checkMark checkMarkCompat checkMarkTint checkMarkTintMode
 styleable Chip android_textAppearance android_textSize android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize
@@ -6044,6 +6126,7 @@ styleable ConstraintOverride android_orientation android_id android_visibility a
 styleable ConstraintSet android_orientation android_id android_visibility android_layout_width android_layout_height android_layout_marginLeft android_layout_marginTop android_layout_marginRight android_layout_marginBottom android_maxWidth android_maxHeight android_minWidth android_minHeight android_pivotX android_pivotY android_alpha android_transformPivotX android_transformPivotY android_translationX android_translationY android_scaleX android_scaleY android_rotation android_rotationX android_rotationY android_layout_marginStart android_layout_marginEnd android_translationZ android_elevation animateCircleAngleTo animateRelativeTo barrierAllowsGoneWidgets barrierDirection barrierMargin chainUseRtl constraintRotate constraint_referenced_ids constraint_referenced_tags deriveConstraintsFrom drawPath flow_firstHorizontalBias flow_firstHorizontalStyle flow_firstVerticalBias flow_firstVerticalStyle flow_horizontalAlign flow_horizontalBias flow_horizontalGap flow_horizontalStyle flow_lastHorizontalBias flow_lastHorizontalStyle flow_lastVerticalBias flow_lastVerticalStyle flow_maxElementsWrap flow_verticalAlign flow_verticalBias flow_verticalGap flow_verticalStyle flow_wrapMode guidelineUseRtl layout_constrainedHeight layout_constrainedWidth layout_constraintBaseline_creator layout_constraintBaseline_toBaselineOf layout_constraintBaseline_toBottomOf layout_constraintBaseline_toTopOf layout_constraintBottom_creator layout_constraintBottom_toBottomOf layout_constraintBottom_toTopOf layout_constraintCircle layout_constraintCircleAngle layout_constraintCircleRadius layout_constraintDimensionRatio layout_constraintEnd_toEndOf layout_constraintEnd_toStartOf layout_constraintGuide_begin layout_constraintGuide_end layout_constraintGuide_percent layout_constraintHeight_default layout_constraintHeight_max layout_constraintHeight_min layout_constraintHeight_percent layout_constraintHorizontal_bias layout_constraintHorizontal_chainStyle layout_constraintHorizontal_weight layout_constraintLeft_creator layout_constraintLeft_toLeftOf layout_constraintLeft_toRightOf layout_constraintRight_creator layout_constraintRight_toLeftOf layout_constraintRight_toRightOf layout_constraintStart_toEndOf layout_constraintStart_toStartOf layout_constraintTag layout_constraintTop_creator layout_constraintTop_toBottomOf layout_constraintTop_toTopOf layout_constraintVertical_bias layout_constraintVertical_chainStyle layout_constraintVertical_weight layout_constraintWidth_default layout_constraintWidth_max layout_constraintWidth_min layout_constraintWidth_percent layout_editor_absoluteX layout_editor_absoluteY layout_goneMarginBaseline layout_goneMarginBottom layout_goneMarginEnd layout_goneMarginLeft layout_goneMarginRight layout_goneMarginStart layout_goneMarginTop layout_marginBaseline layout_wrapBehaviorInParent motionProgress motionStagger pathMotionArc pivotAnchor polarRelativeTo quantizeMotionSteps transitionEasing transitionPathRotate
 styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
+styleable CropImageView cornerShape cropAspectRatioX cropAspectRatioY cropAutoZoomEnabled cropBackgroundColor cropBorderCornerColor cropBorderCornerLength cropBorderCornerOffset cropBorderCornerThickness cropBorderLineColor cropBorderLineThickness cropCenterMoveEnabled cropCornerCircleFillColor cropCornerRadius cropFixAspectRatio cropFlipHorizontally cropFlipVertically cropGuidelines cropGuidelinesColor cropGuidelinesThickness cropInitialCropWindowPaddingRatio cropMaxCropResultHeightPX cropMaxCropResultWidthPX cropMaxZoom cropMinCropResultHeightPX cropMinCropResultWidthPX cropMinCropWindowHeight cropMinCropWindowWidth cropMultiTouchEnabled cropSaveBitmapToInstanceState cropScaleType cropShape cropShowCropOverlay cropShowLabel cropShowProgressBar cropSnapRadius cropTouchRadius cropperLabelText cropperLabelTextColor cropperLabelTextSize
 styleable CustomAttribute attributeName customBoolean customColorDrawableValue customColorValue customDimension customFloatValue customIntegerValue customPixelDimension customReference customStringValue methodName
 styleable DatePicker android_layout_width android_layout_height
 styleable DateTimePicker android_layout_width android_layout_height
@@ -6174,6 +6257,7 @@ xml backup_rules
 xml data_extraction_rules
 xml image_picker_provider_paths
 xml image_share_filepaths
+xml library_file_paths
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end
 xml standalone_badge_gravity_bottom_start

@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -35,15 +36,20 @@ public final class ActivityRegisterBinding implements ViewBinding {
   @NonNull
   public final TextInputEditText etPassword;
 
+  @NonNull
+  public final TextView tvLogin;
+
   private ActivityRegisterBinding(@NonNull LinearLayout rootView, @NonNull Button btnRegister,
       @NonNull TextInputEditText etConfirmPassword, @NonNull TextInputEditText etEmail,
-      @NonNull TextInputEditText etFullname, @NonNull TextInputEditText etPassword) {
+      @NonNull TextInputEditText etFullname, @NonNull TextInputEditText etPassword,
+      @NonNull TextView tvLogin) {
     this.rootView = rootView;
     this.btnRegister = btnRegister;
     this.etConfirmPassword = etConfirmPassword;
     this.etEmail = etEmail;
     this.etFullname = etFullname;
     this.etPassword = etPassword;
+    this.tvLogin = tvLogin;
   }
 
   @Override
@@ -103,8 +109,14 @@ public final class ActivityRegisterBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.tv_login;
+      TextView tvLogin = ViewBindings.findChildViewById(rootView, id);
+      if (tvLogin == null) {
+        break missingId;
+      }
+
       return new ActivityRegisterBinding((LinearLayout) rootView, btnRegister, etConfirmPassword,
-          etEmail, etFullname, etPassword);
+          etEmail, etFullname, etPassword, tvLogin);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

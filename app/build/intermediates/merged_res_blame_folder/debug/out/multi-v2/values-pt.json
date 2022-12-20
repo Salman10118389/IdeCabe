@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.idecabe.app-mergeDebugResources-63:/values-pt/values-pt.xml",
+            "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6c047e633244872e52c3c0bbe63f0649\\transformed\\jetified-ucrop-2.2.8\\res\\values-pt\\values-pt.xml",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6cd75e2fa667daf3c4ab71996b56b377\\transformed\\appcompat-1.5.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\b268d273b50944daf29f25ce593ac23b\\transformed\\appcompat-1.4.2\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

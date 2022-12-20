@@ -69,7 +69,9 @@ id backArrow
 id btnSaveProject
 id btnUploadImages
 id btn_register
+id btn_save
 id button
+id buttonLogin
 id choose
 id container
 id create_new_project
@@ -106,9 +108,11 @@ id textView
 id text_dashboard
 id text_home
 id text_notifications
+id tv_login
 layout activity_bottom_navigation
 layout activity_login
 layout activity_main
+layout activity_project
 layout activity_project_detail
 layout activity_register
 layout activity_splash

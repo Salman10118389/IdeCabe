@@ -20,10 +20,14 @@ class RegisterActivity : AppCompatActivity() {
         binding = ActivityRegisterBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        supportActionBar?.hide()
+
         //get connected Firebase
         val auth = FirebaseAuth.getInstance()
 
-
+        binding.tvLogin.setOnClickListener({
+            moveToLogin()
+        })
 
         binding.btnRegister.setOnClickListener({
             val fullname: String = binding.etFullname.text.toString()
@@ -62,7 +66,12 @@ class RegisterActivity : AppCompatActivity() {
         binding.tvLogin.setOnClickListener({
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
-            finish()
         })
     }
+    
+    private fun moveToLogin(){
+        intent = Intent(this, LoginActivity::class.java)
+        startActivity(intent)
+    }
+    
 }

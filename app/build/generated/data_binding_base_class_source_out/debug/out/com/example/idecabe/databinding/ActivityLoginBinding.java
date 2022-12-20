@@ -28,7 +28,7 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final TextView account;
 
   @NonNull
-  public final AppCompatButton button;
+  public final AppCompatButton buttonLogin;
 
   @NonNull
   public final TextInputEditText email;
@@ -55,13 +55,13 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final TextView textView;
 
   private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @NonNull TextView account,
-      @NonNull AppCompatButton button, @NonNull TextInputEditText email,
+      @NonNull AppCompatButton buttonLogin, @NonNull TextInputEditText email,
       @NonNull TextInputLayout emailLayout, @NonNull Button fSignInBtn, @NonNull Button gSignInBtn,
       @NonNull ImageView imageView, @NonNull TextInputEditText pass,
       @NonNull TextInputLayout passwordLayout, @NonNull TextView textView) {
     this.rootView = rootView;
     this.account = account;
-    this.button = button;
+    this.buttonLogin = buttonLogin;
     this.email = email;
     this.emailLayout = emailLayout;
     this.fSignInBtn = fSignInBtn;
@@ -105,9 +105,9 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.button;
-      AppCompatButton button = ViewBindings.findChildViewById(rootView, id);
-      if (button == null) {
+      id = R.id.buttonLogin;
+      AppCompatButton buttonLogin = ViewBindings.findChildViewById(rootView, id);
+      if (buttonLogin == null) {
         break missingId;
       }
 
@@ -159,7 +159,7 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityLoginBinding((ConstraintLayout) rootView, account, button, email,
+      return new ActivityLoginBinding((ConstraintLayout) rootView, account, buttonLogin, email,
           emailLayout, fSignInBtn, gSignInBtn, imageView, pass, passwordLayout, textView);
     }
     String missingId = rootView.getResources().getResourceName(id);

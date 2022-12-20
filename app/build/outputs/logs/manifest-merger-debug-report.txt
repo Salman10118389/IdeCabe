@@ -1,16 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:2:1-64:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Hacktive\.gradle\caches\transforms-3\e17260ecc2fc572eb2ac107b8903a8f7\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [io.insert-koin:koin-android-compat:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\f409635b72c89440f7486e8fd4767938\transformed\jetified-koin-android-compat-3.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [io.insert-koin:koin-androidx-workmanager:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\85f2917e4c01bd5132a491d42078e2a8\transformed\jetified-koin-androidx-workmanager-3.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [io.insert-koin:koin-androidx-navigation:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\5e1328d82244c667f50e62a0278d5b6a\transformed\jetified-koin-androidx-navigation-3.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [io.insert-koin:koin-android:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\093ba3a6beead8fc61de498532a649b8\transformed\jetified-koin-android-3.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:2:1-59:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\99d8b9a69e9d5da1211976960cd04848\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\54d7bc26e1b93bc5117d50faac310032\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\1d9604c5b71083698e890f60dbcd18a5\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\8294c52391fa87efe8c6891019ee84b3\transformed\jetified-fragment-ktx-1.5.2\AndroidManifest.xml:17:1-24:12
@@ -23,22 +27,17 @@ MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\Hacktive\
 MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\f9a346a2afde1837f151a4f6ebaf8ecd\transformed\navigation-common-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53b90486ff3f91de30cad012a50ad2a3\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\1c221fab1270f47afd176cf3fc325d21\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\99d8b9a69e9d5da1211976960cd04848\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6de2f5e0c78d26f9aee415cb39f780ac\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\107568ee3856aa9a284ca03394ea971c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\0acdbf81aaba5b3566041e38a88db8c0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\eeb7dc265c36ad9df9c084ee1fe1519b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Hacktive\.gradle\caches\transforms-3\71b05e7960fef9c9f42a739cd23c7a6e\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.Spikeysanju:MotionToast:1.3.3.4] C:\Users\Hacktive\.gradle\caches\transforms-3\2c3d295457713da1029bb43ff5562686\transformed\jetified-MotionToast-1.3.3.4\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\Hacktive\.gradle\caches\transforms-3\6c047e633244872e52c3c0bbe63f0649\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6cd75e2fa667daf3c4ab71996b56b377\transformed\appcompat-1.5.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:17:1-73:12
 MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d8ecb88b23e7f810fcab8d7eba06f309\transformed\jetified-glide-4.13.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:2:1-25:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\dc2fcb18ab3647614b92d1ea307ed86a\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\39557d025b36c142569752bb42829eb0\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c56da865bc60d933b30aee1761ba5571\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
@@ -48,6 +47,11 @@ MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\H
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\abf430bebf2cc76e0da9452eea4793d7\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.github.Spikeysanju:MotionToast:1.3.3.4] C:\Users\Hacktive\.gradle\caches\transforms-3\2c3d295457713da1029bb43ff5562686\transformed\jetified-MotionToast-1.3.3.4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\Hacktive\.gradle\caches\transforms-3\6c047e633244872e52c3c0bbe63f0649\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Hacktive\.gradle\caches\transforms-3\b268d273b50944daf29f25ce593ac23b\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\cfe1ff9d3a775990af91398bce745188\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\31685f088ecbf25a661306d1048eebd2\transformed\fragment-1.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\20476edb5f3bd3ef508bd8b99d94edd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -62,31 +66,33 @@ MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Hacktive\.gradle\caches\trans
 MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\4b94420dff604157c1af720fab00715c\transformed\jetified-sdp-android-1.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.intuit.ssp:ssp-android:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\933da33467e74e9473dfe07fb0d08901\transformed\jetified-ssp-android-1.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\7b60e572c510f197ff8f6de0315bf94e\transformed\jetified-flexbox-3.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8f460352c28603ba0e6c4381d8a47f41\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b282722a27a3d263afd1c61707dcd7d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\3ee0193cc2efa0705f9624d109470ac0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\fa61e03335dd9026e728e0038de840bc\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2bb49c39749f312467f082f2ae841021\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\2a7fdedc84db896b3ec416c497575053\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8b651b3bace81f43234f5db1ef71476a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\1920b1a3b2573446274de239eb84aaf4\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b9feb2f6d7388bd0b8f983d49790cfbd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\714910b61ad539e52bf11a883498f3ad\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Hacktive\.gradle\caches\transforms-3\dbdb02e89fd9bb5e47cfc338d5546305\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d53836995934468d225a60e0302cc5cf\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b282722a27a3d263afd1c61707dcd7d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\3ee0193cc2efa0705f9624d109470ac0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8eed189f0f1771bdb4e8b3e2f2a33491\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\2801e3798cb094051f89cdbb20372a80\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e323646de2d617af1eab54fdce6d983e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c67377ecc23ecc512d4a6ab7ab881938\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c05e58fc7622361dc467ec83fc9babdc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\cbc52cd9060438d892796c992eeab2ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\d70d3858d54b588101bbcc01f43c1c9a\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Hacktive\.gradle\caches\transforms-3\16b0e0c9326f9558e165b416f03a809b\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\a921993fc9353bdf7ca4b15647541749\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\5fc554342e19106ec3697139421e5c2d\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\10b9c3ab15894db2578d01210c978003\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\42220d81bff271486224c8c4d093a6d6\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\c384872d3d0acbe6f5b1122b27cf4ff5\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\ceff546da5b599708b9385db4c148a17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
@@ -97,6 +103,7 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Hacktive\.gradle\ca
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\f10811397d5306561fab6648bf69de69\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c2021dce7f5e27ba8f79e3b617a692b7\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ec386ae46bce092e87e9e7b023c0ee72\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c05e58fc7622361dc467ec83fc9babdc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a303a07f3d7cd1e23ae66d3cdec03319\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e154bd84d3444b7f75d863c300fd67ba\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\532f9e0a478902d9ad802e8700fef5ec\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
@@ -106,27 +113,55 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Hac
 MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\Hacktive\.gradle\caches\transforms-3\e136b5575b248be7967c3fc4db7ef42f\transformed\jetified-library-1.6.2\AndroidManifest.xml:2:1-13:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\5edcbcab83aa729363aface5fef25346\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
 MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\Hacktive\.gradle\caches\transforms-3\39058ff8168237df75f8f6ddb36c1fc7\transformed\jetified-materialish-progress-1.7\AndroidManifest.xml:2:1-13:12
-INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:4:5-34
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:9:5-80
+MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:10:5-12:38
+MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:10:5-12:38
+	android:maxSdkVersion
+		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:12:9-35
+	android:name
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:12:5-67
+MERGED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:8:22-64
 application
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:6:5-46:19
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:10:5-52:19
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:22:5-62:19
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:22:5-62:19
 MERGED from [io.insert-koin:koin-android-compat:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\f409635b72c89440f7486e8fd4767938\transformed\jetified-koin-android-compat-3.2.2\AndroidManifest.xml:7:5-20
 MERGED from [io.insert-koin:koin-android-compat:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\f409635b72c89440f7486e8fd4767938\transformed\jetified-koin-android-compat-3.2.2\AndroidManifest.xml:7:5-20
 MERGED from [io.insert-koin:koin-androidx-workmanager:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\85f2917e4c01bd5132a491d42078e2a8\transformed\jetified-koin-androidx-workmanager-3.2.2\AndroidManifest.xml:7:5-20
@@ -137,20 +172,24 @@ MERGED from [io.insert-koin:koin-android:3.2.2] C:\Users\Hacktive\.gradle\caches
 MERGED from [io.insert-koin:koin-android:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\093ba3a6beead8fc61de498532a649b8\transformed\jetified-koin-android-3.2.2\AndroidManifest.xml:7:5-20
 MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:38:5-57:19
 MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:38:5-57:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
 MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d8ecb88b23e7f810fcab8d7eba06f309\transformed\jetified-glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d8ecb88b23e7f810fcab8d7eba06f309\transformed\jetified-glide-4.13.0\AndroidManifest.xml:10:5-20
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:15:5-23:19
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:15:5-23:19
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\dc2fcb18ab3647614b92d1ea307ed86a\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\dc2fcb18ab3647614b92d1ea307ed86a\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\39557d025b36c142569752bb42829eb0\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\39557d025b36c142569752bb42829eb0\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c56da865bc60d933b30aee1761ba5571\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
@@ -163,20 +202,28 @@ MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Hacktiv
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\abf430bebf2cc76e0da9452eea4793d7\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\fa61e03335dd9026e728e0038de840bc\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\fa61e03335dd9026e728e0038de840bc\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
 MERGED from [androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\5fc554342e19106ec3697139421e5c2d\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\5fc554342e19106ec3697139421e5c2d\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\Hacktive\.gradle\caches\transforms-3\e136b5575b248be7967c3fc4db7ef42f\transformed\jetified-library-1.6.2\AndroidManifest.xml:11:5-20
@@ -186,83 +233,91 @@ MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\Hacktive\.gradle\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:15:9-41
 	android:fullBackupContent
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:13:9-54
 	android:roundIcon
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:16:9-54
 	tools:targetApi
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:15:9-29
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:19:9-29
 	android:icon
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:14:9-45
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:18:9-45
 	android:dataExtractionRules
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:8:9-65
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:12:9-65
+activity#com.example.idecabe.ui.project.ProjectActivity
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:20:9-22:39
+	android:exported
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:21:13-55
 activity#com.example.idecabe.ui.SplashAcytivity.SplashActivity
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:23:9-31:20
 	android:exported
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:17:13-62
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:24:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.example.idecabe.ui.register.RegisterActivity
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:25:9-27:39
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:32:9-34:39
 	android:exported
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:26:13-57
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:33:13-57
 activity#com.example.idecabe.ui.auth.LoginActivity
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:28:9-30:39
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:35:9-37:39
 	android:exported
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:29:13-50
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:36:13-50
 activity#com.example.idecabe.ui.project_detail.ProjectDetail
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:31:9-33:40
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:32:13-60
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:39:13-60
 activity#com.example.idecabe.BottomNavigationActivity
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:34:9-38:20
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:41:9-44:81
 	android:label
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:37:13-69
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:44:13-69
 	android:exported
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:36:13-36
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:35:13-53
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:42:13-53
 activity#com.example.idecabe.MainActivity
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:39:9-41:39
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:45:9-47:39
 	android:exported
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:41:13-36
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:47:13-36
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:40:13-41
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:46:13-41
 meta-data#preloaded_fonts
-ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:43:9-45:57
+ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:49:9-51:57
 	android:resource
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:45:13-54
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:51:13-54
 	android:name
-		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:44:13-43
+		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml:50:13-43
 uses-sdk
 INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 MERGED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Hacktive\.gradle\caches\transforms-3\e17260ecc2fc572eb2ac107b8903a8f7\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Hacktive\.gradle\caches\transforms-3\e17260ecc2fc572eb2ac107b8903a8f7\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [io.insert-koin:koin-android-compat:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\f409635b72c89440f7486e8fd4767938\transformed\jetified-koin-android-compat-3.2.2\AndroidManifest.xml:5:5-44
@@ -275,6 +330,12 @@ MERGED from [io.insert-koin:koin-android:3.2.2] C:\Users\Hacktive\.gradle\caches
 MERGED from [io.insert-koin:koin-android:3.2.2] C:\Users\Hacktive\.gradle\caches\transforms-3\093ba3a6beead8fc61de498532a649b8\transformed\jetified-koin-android-3.2.2\AndroidManifest.xml:5:5-44
 MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\99d8b9a69e9d5da1211976960cd04848\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\99d8b9a69e9d5da1211976960cd04848\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\54d7bc26e1b93bc5117d50faac310032\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\54d7bc26e1b93bc5117d50faac310032\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\1d9604c5b71083698e890f60dbcd18a5\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:20:5-22:41
@@ -299,8 +360,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Hacktive
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53b90486ff3f91de30cad012a50ad2a3\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\1c221fab1270f47afd176cf3fc325d21\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\1c221fab1270f47afd176cf3fc325d21\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\99d8b9a69e9d5da1211976960cd04848\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\99d8b9a69e9d5da1211976960cd04848\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6de2f5e0c78d26f9aee415cb39f780ac\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6de2f5e0c78d26f9aee415cb39f780ac\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\107568ee3856aa9a284ca03394ea971c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -311,26 +370,18 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Hackti
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\eeb7dc265c36ad9df9c084ee1fe1519b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Hacktive\.gradle\caches\transforms-3\71b05e7960fef9c9f42a739cd23c7a6e\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Hacktive\.gradle\caches\transforms-3\71b05e7960fef9c9f42a739cd23c7a6e\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.Spikeysanju:MotionToast:1.3.3.4] C:\Users\Hacktive\.gradle\caches\transforms-3\2c3d295457713da1029bb43ff5562686\transformed\jetified-MotionToast-1.3.3.4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.Spikeysanju:MotionToast:1.3.3.4] C:\Users\Hacktive\.gradle\caches\transforms-3\2c3d295457713da1029bb43ff5562686\transformed\jetified-MotionToast-1.3.3.4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\Hacktive\.gradle\caches\transforms-3\6c047e633244872e52c3c0bbe63f0649\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\Hacktive\.gradle\caches\transforms-3\6c047e633244872e52c3c0bbe63f0649\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6cd75e2fa667daf3c4ab71996b56b377\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6cd75e2fa667daf3c4ab71996b56b377\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\977d44c0949970249f5e25f0cde66458\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d8ecb88b23e7f810fcab8d7eba06f309\transformed\jetified-glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d8ecb88b23e7f810fcab8d7eba06f309\transformed\jetified-glide-4.13.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\dc2fcb18ab3647614b92d1ea307ed86a\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\dc2fcb18ab3647614b92d1ea307ed86a\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\39557d025b36c142569752bb42829eb0\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\39557d025b36c142569752bb42829eb0\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c56da865bc60d933b30aee1761ba5571\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
@@ -349,6 +400,16 @@ MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Hacktiv
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\abf430bebf2cc76e0da9452eea4793d7\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\80eff38fa7c164ca31f22de8cc2c95ed\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.github.Spikeysanju:MotionToast:1.3.3.4] C:\Users\Hacktive\.gradle\caches\transforms-3\2c3d295457713da1029bb43ff5562686\transformed\jetified-MotionToast-1.3.3.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Spikeysanju:MotionToast:1.3.3.4] C:\Users\Hacktive\.gradle\caches\transforms-3\2c3d295457713da1029bb43ff5562686\transformed\jetified-MotionToast-1.3.3.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Hacktive\.gradle\caches\transforms-3\53cae172d2125b2b22e0185be171198e\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hacktive\.gradle\caches\transforms-3\24060c6929600b767f3d8909c05ac005\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\Hacktive\.gradle\caches\transforms-3\6c047e633244872e52c3c0bbe63f0649\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\Hacktive\.gradle\caches\transforms-3\6c047e633244872e52c3c0bbe63f0649\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Hacktive\.gradle\caches\transforms-3\b268d273b50944daf29f25ce593ac23b\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Hacktive\.gradle\caches\transforms-3\b268d273b50944daf29f25ce593ac23b\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\cfe1ff9d3a775990af91398bce745188\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\cfe1ff9d3a775990af91398bce745188\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Hacktive\.gradle\caches\transforms-3\31685f088ecbf25a661306d1048eebd2\transformed\fragment-1.5.2\AndroidManifest.xml:20:5-22:41
@@ -377,14 +438,8 @@ MERGED from [com.intuit.ssp:ssp-android:1.1.0] C:\Users\Hacktive\.gradle\caches\
 MERGED from [com.intuit.ssp:ssp-android:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\933da33467e74e9473dfe07fb0d08901\transformed\jetified-ssp-android-1.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\7b60e572c510f197ff8f6de0315bf94e\transformed\jetified-flexbox-3.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\7b60e572c510f197ff8f6de0315bf94e\transformed\jetified-flexbox-3.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8f460352c28603ba0e6c4381d8a47f41\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8f460352c28603ba0e6c4381d8a47f41\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b282722a27a3d263afd1c61707dcd7d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b282722a27a3d263afd1c61707dcd7d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\3ee0193cc2efa0705f9624d109470ac0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\3ee0193cc2efa0705f9624d109470ac0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\fa61e03335dd9026e728e0038de840bc\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\fa61e03335dd9026e728e0038de840bc\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2bb49c39749f312467f082f2ae841021\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2bb49c39749f312467f082f2ae841021\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\2a7fdedc84db896b3ec416c497575053\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
@@ -397,8 +452,18 @@ MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hacktive\.gradle\cache
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b9feb2f6d7388bd0b8f983d49790cfbd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\714910b61ad539e52bf11a883498f3ad\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\714910b61ad539e52bf11a883498f3ad\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Hacktive\.gradle\caches\transforms-3\dbdb02e89fd9bb5e47cfc338d5546305\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Hacktive\.gradle\caches\transforms-3\dbdb02e89fd9bb5e47cfc338d5546305\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d53836995934468d225a60e0302cc5cf\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d53836995934468d225a60e0302cc5cf\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b282722a27a3d263afd1c61707dcd7d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\b282722a27a3d263afd1c61707dcd7d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\3ee0193cc2efa0705f9624d109470ac0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\3ee0193cc2efa0705f9624d109470ac0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.media:media:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8eed189f0f1771bdb4e8b3e2f2a33491\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\8eed189f0f1771bdb4e8b3e2f2a33491\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\2801e3798cb094051f89cdbb20372a80\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
@@ -409,8 +474,6 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ha
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c67377ecc23ecc512d4a6ab7ab881938\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.8.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c05e58fc7622361dc467ec83fc9babdc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c05e58fc7622361dc467ec83fc9babdc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\cbc52cd9060438d892796c992eeab2ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\cbc52cd9060438d892796c992eeab2ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\d70d3858d54b588101bbcc01f43c1c9a\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
@@ -419,14 +482,16 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Hacktive\.grad
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Hacktive\.gradle\caches\transforms-3\16b0e0c9326f9558e165b416f03a809b\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\a921993fc9353bdf7ca4b15647541749\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Hacktive\.gradle\caches\transforms-3\a921993fc9353bdf7ca4b15647541749\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\5fc554342e19106ec3697139421e5c2d\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Hacktive\.gradle\caches\transforms-3\5fc554342e19106ec3697139421e5c2d\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\10b9c3ab15894db2578d01210c978003\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\10b9c3ab15894db2578d01210c978003\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\4501f072518530cce0f741baeda0d089\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\42220d81bff271486224c8c4d093a6d6\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\42220d81bff271486224c8c4d093a6d6\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Hacktive\.gradle\caches\transforms-3\c384872d3d0acbe6f5b1122b27cf4ff5\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
@@ -447,6 +512,8 @@ MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Hacktive\.gradle\cac
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c2021dce7f5e27ba8f79e3b617a692b7\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ec386ae46bce092e87e9e7b023c0ee72\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ec386ae46bce092e87e9e7b023c0ee72\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c05e58fc7622361dc467ec83fc9babdc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c05e58fc7622361dc467ec83fc9babdc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a303a07f3d7cd1e23ae66d3cdec03319\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a303a07f3d7cd1e23ae66d3cdec03319\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\e154bd84d3444b7f75d863c300fd67ba\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
@@ -475,14 +542,6 @@ INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 		ADDED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
 		INJECTED from G:\AndroidPractice\IdeCabe\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:12:5-67
-MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:13:5-67
-MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:13:5-67
-	android:name
-		ADDED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:13:5-76
 	android:name
@@ -493,6 +552,8 @@ MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle
 MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:12:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:25:5-79
 MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Hacktive\.gradle\caches\transforms-3\2e1066c3c2d494c8a17125ca39f4adb5\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:9:5-79
 MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\Hacktive\.gradle\caches\transforms-3\2e1066c3c2d494c8a17125ca39f4adb5\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:9:5-79
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
@@ -505,32 +566,80 @@ ADDED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\t
 		ADDED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:17:9-44
 	android:name
 		ADDED from [com.github.TistoW:MyHelper:2.0.9] C:\Users\Hacktive\.gradle\caches\transforms-3\162eb1214afbb0fae03a4411ea4cf173\transformed\jetified-MyHelper-2.0.9\AndroidManifest.xml:16:9-70
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:9:5-80
-	android:name
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:9:22-77
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:10:5-12:38
-	android:maxSdkVersion
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:12:9-35
-	android:name
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:11:9-65
 queries
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:14:5-36:15
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:9:5-20:15
+MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:14:5-36:15
+MERGED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:14:5-36:15
+intent#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:10:9-16:18
+action#android.intent.action.GET_CONTENT
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:11:21-69
+category#android.intent.category.OPENABLE
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:13:23-70
+data
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:15:13-44
+	android:mimeType
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:15:19-41
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:17:9-19:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:18:13-73
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:18:21-70
+provider#com.canhub.cropper.CropFileProvider
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:24:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:28:13-30:62
+	android:resource
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:30:17-59
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:29:17-67
+activity#com.canhub.cropper.CropImageActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:33:9-35:39
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:34:13-64
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:38:9-45:20
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:40:13-36
+	android:theme
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:39:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:42:13-44:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:46:9-53:20
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:47:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:54:9-61:20
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:56:13-36
+	android:theme
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ba0972eeeec308c003dc42ee00c0343b\transformed\jetified-Android-Image-Cropper-4.3.0\AndroidManifest.xml:55:13-103
 intent#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:image/*
 ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:17:9-23:18
-action#android.intent.action.GET_CONTENT
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:18:13-72
-	android:name
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:18:21-69
-category#android.intent.category.OPENABLE
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:20:13-73
-	android:name
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:20:23-70
-data
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:13-48
-	android:mimeType
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:22:19-45
 intent#action:name:android.intent.action.PICK+data:mimeType:image/*
 ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:24:9-28:18
 action#android.intent.action.PICK
@@ -543,12 +652,6 @@ action#android.intent.action.CHOOSER
 ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:30:13-68
 	android:name
 		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:30:21-65
-intent#action:name:android.media.action.IMAGE_CAPTURE
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:33:9-35:18
-action#android.media.action.IMAGE_CAPTURE
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:34:13-73
-	android:name
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:34:21-70
 activity#com.github.drjacky.imagepicker.ImagePickerActivity
 ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:39:9-42:68
 	android:screenOrientation
@@ -575,12 +678,38 @@ ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\cac
 		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:51:13-37
 	android:name
 		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:49:13-82
-meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:53:13-55:71
-	android:resource
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:55:17-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [com.github.Drjacky:ImagePicker:2.3.20] C:\Users\Hacktive\.gradle\caches\transforms-3\dee628c4f4a9711e44e304bedf6748dd\transformed\jetified-ImagePicker-2.3.20\AndroidManifest.xml:54:17-67
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\a4e1f02de6a576d450133e78e3f08821\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:15:17-122
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\04ff79c63623cb657e55daf5c46f4492\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:15:17-113
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 	android:required
@@ -633,20 +762,6 @@ ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
 ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
-MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:16:9-22:19
-MERGED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:16:9-22:19
-MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:65:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
 ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\86552982f6d6897a8d9f8eaba7bca754\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
 	android:value
@@ -679,6 +794,12 @@ ADDED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gr
 		ADDED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:21:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:24.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\deea57c36fa53563dc04ec2998f6159a\transformed\jetified-firebase-firestore-24.4.1\AndroidManifest.xml:20:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Hacktive\.gradle\caches\transforms-3\2e4aa2ddd17318105cb3b3abf5f24c47\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\ed878335c8c05b6d5663daf9dc9f7a5b\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
 	android:authorities
@@ -714,27 +835,27 @@ ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\cach
 	android:name
 		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hacktive\.gradle\caches\transforms-3\931edaba58693462e824c42eb6acf922\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
 MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Hacktive\.gradle\caches\transforms-3\6c662ee2763bf729d94526eadfdfa284\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\c6ddc2eeeecf8e83011b4a6f3168fb69\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hacktive\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Hacktive\.gradle\caches\transforms-3\09f3ce19668c0bddeae3cc2a3fc5460c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
 	android:name
@@ -952,11 +1073,11 @@ ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\t
 	android:name
 		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Hacktive\.gradle\caches\transforms-3\267a5cf4c67d566883ee81045f454c33\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hacktive\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Hacktive\.gradle\caches\transforms-3\d18b1d5576e6cf537a8805d3230cbafe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Hacktive\.gradle\caches\transforms-3\658b468c7abbeb9a91bb99583a7adbe0\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 	android:exported
