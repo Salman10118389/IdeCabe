@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.idecabe.databinding.FragmentDashboardBinding
+import com.example.idecabe.ui.project_detail.ProjectDetailViewModel
 
 class DashboardFragment : Fragment() {
 
@@ -23,7 +24,7 @@ class DashboardFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         val projectViewModel =
-            ViewModelProvider(this).get(ProjectViewModel::class.java)
+            ViewModelProvider(this).get(DashboardViewModel::class.java)
 
         _binding = FragmentDashboardBinding.inflate(inflater, container, false)
         val root: View = binding.root
