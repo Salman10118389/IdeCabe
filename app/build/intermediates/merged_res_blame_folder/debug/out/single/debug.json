@@ -100,6 +100,10 @@
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\layout_activity_add_collaborator.xml.flat",
+        "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_add_collaborator.xml"
+    },
+    {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_asset_produk1.jpg.flat",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\drawable\\asset_produk1.jpg"
     },
@@ -142,10 +146,6 @@
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\layout_fragment_notifications.xml.flat",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\fragment_notifications.xml"
-    },
-    {
-        "merged": "com.example.idecabe.app-merged_res-68:/layout_activity_register.xml.flat",
-        "source": "com.example.idecabe.app-main-70:/layout/activity_register.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_asset_produk7.jpg.flat",
@@ -210,6 +210,10 @@
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_account.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_ic_baseline_person_outline_24.xml.flat",
@@ -278,6 +282,10 @@
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-68:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.idecabe.app-main-70:/navigation/mobile_navigation.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_asset_gopay.png.flat",

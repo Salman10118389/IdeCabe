@@ -3940,6 +3940,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_collab_btn
 id adjust_height
 id adjust_width
 id alertTitle
@@ -4015,6 +4016,7 @@ id clip_horizontal
 id clip_vertical
 id clockwise
 id closest
+id collab_email
 id collapseActionView
 id colorView
 id color_toast_description
@@ -4465,6 +4467,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id textlogout
 id til_search
 id time
 id title
@@ -4621,6 +4624,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_account
+layout activity_add_collaborator
 layout activity_bottom_navigation
 layout activity_login
 layout activity_main
@@ -4813,6 +4818,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string collab_email
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text
 string common_google_play_services_enable_title

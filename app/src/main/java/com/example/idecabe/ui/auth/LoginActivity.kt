@@ -11,6 +11,7 @@ import com.example.idecabe.BottomNavigationActivity
 import com.example.idecabe.R
 import com.example.idecabe.databinding.ActivityLoginBinding
 import com.example.idecabe.databinding.ActivityRegisterBinding
+import com.example.idecabe.ui.register.RegisterActivity
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
@@ -51,8 +52,17 @@ class LoginActivity : AppCompatActivity() {
             signInGoogle()
         }
 
+        binding.account.setOnClickListener({
+            val intentsignUp = Intent(this, RegisterActivity::class.java)
+            startActivity(intentsignUp)
+        })
+
         email = binding.email.text.toString()
         password = binding.pass.text.toString()
+
+        binding.buttonLogin.setOnClickListener({
+            signInEmail(email, password)
+        })
 }
     private fun signInEmail(email: String, password: String){
         if(email.isNotEmpty() && password.isNotEmpty()){

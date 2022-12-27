@@ -8,6 +8,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -17,6 +18,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IdeCabe"
         tools:targetApi="31">
+        <activity
+            android:name=".AccountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".addCollaborator"
+            android:exported="false" />
         <activity
             android:name=".ui.project.ProjectActivity"
             android:exported="true" />
@@ -41,7 +48,7 @@
         <activity
             android:name=".BottomNavigationActivity"
             android:exported="true"
-            android:label="@string/title_activity_bottom_navigation"></activity>
+            android:label="@string/title_activity_bottom_navigation" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />

@@ -65,6 +65,7 @@ drawable sample
 drawable splash_image
 font exo_2
 id account
+id add_collab_btn
 id backArrow
 id btnSaveProject
 id btnUploadImages
@@ -73,6 +74,7 @@ id btn_save
 id button
 id buttonLogin
 id choose
+id collab_email
 id container
 id create_new_project
 id email
@@ -108,7 +110,10 @@ id textView
 id text_dashboard
 id text_home
 id text_notifications
+id textlogout
 id tv_login
+layout activity_account
+layout activity_add_collaborator
 layout activity_bottom_navigation
 layout activity_login
 layout activity_main
@@ -128,6 +133,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation mobile_navigation
 string app_name
+string collab_email
 string default_web_client_id
 string gcm_defaultSenderId
 string google_api_key

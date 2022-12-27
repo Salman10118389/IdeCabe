@@ -4,6 +4,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="collab_email">Type your Collaborator Email</string>
     <string-array name="maskingSelection">
         <item>-- Select --</item>
         <item>Venus</item>

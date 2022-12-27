@@ -13,7 +13,9 @@ import com.example.idecabe.databinding.FragmentHomeBinding
 import com.example.idecabe.ui.auth.LoginActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class HomeFragment : Fragment() {
 
     private var _binding: FragmentHomeBinding? = null

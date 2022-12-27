@@ -13,7 +13,9 @@ import com.example.idecabe.ui.register.RegisterActivity
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class BottomNavigationActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityBottomNavigationBinding

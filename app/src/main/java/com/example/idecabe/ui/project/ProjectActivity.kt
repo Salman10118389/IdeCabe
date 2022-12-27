@@ -39,7 +39,8 @@ class ProjectActivity : AppCompatActivity() {
                     var projectMap: HashMap<String, String> =HashMap<String, String>()
                     projectMap.put("Name", projectName.toString())
                     projectMap.put("Label", label)
-                    firebaseFirestore.collection("Project").document(uId).set(projectMap).addOnCompleteListener({
+                    projectMap.put("parent", uId)
+                    firebaseFirestore.collection("Project").add(projectMap).addOnCompleteListener({
                         if (it.isSuccessful){
                             Toast.makeText(this, "Project Saved", Toast.LENGTH_LONG).show()
                         }else {

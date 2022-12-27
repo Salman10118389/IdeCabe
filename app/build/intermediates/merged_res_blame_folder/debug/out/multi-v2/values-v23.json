@@ -4,26 +4,7 @@
             "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\53cae172d2125b2b22e0185be171198e\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
-                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
-                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
-                    },
-                    "to": {
-                        "startLines": "55,58,61,66,70,73,76,79,84,87,91",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3511,3727,3937,4257,4494,4701,4908,5111,5443,5645,5910",
-                        "endLines": "57,60,65,69,72,75,78,83,86,90,94",
-                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
-                        "endOffsets": "3722,3932,4252,4489,4696,4903,5106,5438,5640,5905,6178"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\267a5cf4c67d566883ee81045f454c33\\transformed\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\eceb91013f4be2797ce0898c9866064d\\transformed\\work-runtime-2.7.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -33,7 +14,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\b268d273b50944daf29f25ce593ac23b\\transformed\\appcompat-1.4.2\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\ac6a56bca0104d3b578d9051c9fdeb43\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "3361",
+                        "endLines": "54",
+                        "endColumns": "12",
+                        "endOffsets": "3506"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\aebc5b56a7c247f59d87d8ea5c9174e9\\transformed\\appcompat-1.4.2\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,22 +52,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\a303a07f3d7cd1e23ae66d3cdec03319\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\92a5a7c0e1efd7a0409d7a60e59ad10c\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
+                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
+                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
                     },
                     "to": {
-                        "startLines": "52",
-                        "startColumns": "4",
-                        "startOffsets": "3361",
-                        "endLines": "54",
-                        "endColumns": "12",
-                        "endOffsets": "3506"
+                        "startLines": "55,58,61,66,70,73,76,79,84,87,91",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3511,3727,3937,4257,4494,4701,4908,5111,5443,5645,5910",
+                        "endLines": "57,60,65,69,72,75,78,83,86,90,94",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "3722,3932,4252,4489,4696,4903,5106,5438,5640,5905,6178"
                     }
                 }
             ]

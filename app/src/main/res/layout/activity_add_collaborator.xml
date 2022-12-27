@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginVertical="@dimen/_10sdp"
+    android:layout_marginHorizontal="@dimen/_10sdp"
+    android:orientation="vertical"
+    tools:context=".ui.collaborator.addCollaborator">
+    <ImageView
+        android:layout_width="@dimen/_240sdp"
+        android:layout_height="@dimen/_160sdp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo_brin"
+        android:layout_marginBottom="@dimen/_20sdp"/>
+    <TextView
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:paddingHorizontal="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add your Email Collaborator"
+        android:textSize="@dimen/_16ssp"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:textFontWeight="400"
+        />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/collab_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/collab_email"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/add_collab_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="Add Collaborator"
+        android:textColor="@color/white"/>
+</LinearLayout>

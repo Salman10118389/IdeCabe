@@ -4,17 +4,7 @@
             "outputFile": "com.example.idecabe.app-mergeDebugResources-66:/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\ba0972eeeec308c003dc42ee00c0343b\\transformed\\jetified-Android-Image-Cropper-4.3.0\\res\\values-zh\\values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,135,182,234,276,333,388,440,490",
-                        "endColumns": "79,46,51,41,56,54,51,49,57",
-                        "endOffsets": "130,177,229,271,328,383,435,485,543"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6c047e633244872e52c3c0bbe63f0649\\transformed\\jetified-ucrop-2.2.8\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\6811c46d17b5dc9bb8da6c0ea6334dd3\\transformed\\jetified-ucrop-2.2.8\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "548,590,644,698,745,789",
                         "endColumns": "41,53,53,46,43,42",
                         "endOffsets": "585,639,693,740,784,827"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Hacktive\\.gradle\\caches\\transforms-3\\a7d5b1ef2cd2a0cd7ea6cca76255e69e\\transformed\\jetified-Android-Image-Cropper-4.3.0\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,135,182,234,276,333,388,440,490",
+                        "endColumns": "79,46,51,41,56,54,51,49,57",
+                        "endOffsets": "130,177,229,271,328,383,435,485,543"
                     }
                 }
             ]
