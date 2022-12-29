@@ -13,29 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74609cc8-8efa-4fc4-b0f9-d7f93b2fa633" name="Changes" comment="Update register Activity, Tinggal buat enkripsi passwordsama emailnya">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/core/sources/remote/repositories/AuthRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/core/sources/remote/repositories/AuthRepositoryImp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/core/sources/remote/repositories/ProjectRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/core/sources/remote/repositories/ProjectRepositoryImp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/ui/auth/LoginViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/ui/auth/loginFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/utils/Constants.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/utils/Extensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/utils/UiState.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/core/sources/remote/model/project.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/core/sources/remote/model/project.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/di/FirebaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/di/FirebaseModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/di/RepositoryModules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/idecabe/di/RepositoryModules.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,11 +95,11 @@
       <recent name="com.example.idecabe.ui.collaborator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\AndroidPractice\IdeCabe\app\src\main\java\com\example\idecabe\utils" />
       <recent name="G:\AndroidPractice\IdeCabe\app\src\main\res\font" />
       <recent name="G:\AndroidPractice\IdeCabe\app\src\main\res\drawable" />
       <recent name="G:\AndroidPractice\IdeCabe\app\src\main\res\layout" />
       <recent name="G:\AndroidPractice\IdeCabe\app\src\main\java\com\example\idecabe\ui\account" />
-      <recent name="G:\AndroidPractice\IdeCabe\app" />
     </key>
     <key name="android.template.1228900555">
       <recent name="com.example.idecabe.ui.project" />
