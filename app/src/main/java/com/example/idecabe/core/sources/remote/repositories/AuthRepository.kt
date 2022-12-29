@@ -1,5 +1,8 @@
 package com.example.idecabe.core.sources.remote.repositories
 
+import com.example.idecabe.utils.UiState
+import com.google.firebase.firestore.auth.User
+
 interface AuthRepository {
     fun registerUser(email: String, password: String, user: User, result: (UiState<String>) -> Unit)
     fun updateUserInfo(user: User, result: (UiState<String>) -> Unit)

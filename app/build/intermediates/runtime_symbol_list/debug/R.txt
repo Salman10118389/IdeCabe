@@ -4661,8 +4661,9 @@ int layout dp_example 0x7f0d003d
 int layout fragment_account 0x7f0d003e
 int layout fragment_dashboard 0x7f0d003f
 int layout fragment_home 0x7f0d0040
+int layout fragment_login 0x7f0d00ac
 int layout fragment_notifications 0x7f0d0041
-int layout fragment_project 0x7f0d0042
+int layout fragment_project2 0x7f0d00ad
 int layout full_color_toast 0x7f0d0043
 int layout item_photo 0x7f0d0044
 int layout item_project 0x7f0d0045
@@ -4864,6 +4865,7 @@ int string google_api_key 0x7f130055
 int string google_app_id 0x7f130056
 int string google_crash_reporting_api_key 0x7f130057
 int string google_storage_bucket 0x7f130058
+int string hello_blank_fragment 0x7f1300d7
 int string hide_bottom_view_on_scroll_behavior 0x7f130059
 int string ic_flip_24 0x7f13005a
 int string ic_flip_24_horizontally 0x7f13005b

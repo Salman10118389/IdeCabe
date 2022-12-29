@@ -4662,8 +4662,9 @@ layout dp_example
 layout fragment_account
 layout fragment_dashboard
 layout fragment_home
+layout fragment_login
 layout fragment_notifications
-layout fragment_project
+layout fragment_project2
 layout full_color_toast
 layout item_photo
 layout item_project
@@ -4865,6 +4866,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string ic_flip_24
 string ic_flip_24_horizontally

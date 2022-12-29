@@ -50,9 +50,11 @@ class AccountFragment : Fragment() {
     }
 
     private fun logOut(){
+        auth = FirebaseAuth.getInstance()
         auth.signOut()
         val intentToMain = Intent(activity, LoginActivity::class.java)
         startActivity(intentToMain)
+        activity?.finish()
     }
 
     override fun onDestroyView() {

@@ -1,12 +1,14 @@
 package com.example.idecabe.ui.project
 
-import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.idecabe.R
+import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProvider
+import com.example.idecabe.databinding.FragmentProject2Binding
+
 
 class ProjectFragment : Fragment() {
 
@@ -15,18 +17,21 @@ class ProjectFragment : Fragment() {
     }
 
     private lateinit var viewModel: ProjectViewModel
-
+    private lateinit var binding: FragmentProject2Binding
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_project2, container, false)
+        binding = FragmentProject2Binding.inflate(inflater, container, false)
+        (activity as AppCompatActivity?)!!.supportActionBar!!.hide()
+        return binding.root
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
         viewModel = ViewModelProvider(this).get(ProjectViewModel::class.java)
         // TODO: Use the ViewModel
+
     }
 
 }

@@ -124,8 +124,9 @@ layout activity_splash
 layout fragment_account
 layout fragment_dashboard
 layout fragment_home
+layout fragment_login
 layout fragment_notifications
-layout fragment_project
+layout fragment_project2
 layout item_photo
 layout item_project
 menu bottom_nav_menu
@@ -140,6 +141,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string project_id
 string title_activity_bottom_navigation
 string title_dashboard

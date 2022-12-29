@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\fragment_project.xml",
-        "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\fragment_project.xml"
-    },
-    {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\activity_project_detail.xml",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_project_detail.xml"
     },
@@ -24,6 +20,14 @@
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\item_project.xml"
     },
     {
+        "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-mergeDebugResources-67:/layout/activity_bottom_navigation.xml",
+        "source": "com.example.idecabe.app-main-70:/layout/activity_bottom_navigation.xml"
+    },
+    {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\activity_main.xml",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_main.xml"
     },
@@ -40,16 +44,16 @@
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_register.xml"
     },
     {
+        "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\fragment_project2.xml",
+        "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\fragment_project2.xml"
+    },
+    {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\fragment_home.xml",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\activity_account.xml",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_account.xml"
-    },
-    {
-        "merged": "com.example.idecabe.app-mergeDebugResources-67:/layout/fragment_notifications.xml",
-        "source": "com.example.idecabe.app-main-70:/layout/fragment_notifications.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\activity_bottom_navigation.xml",
