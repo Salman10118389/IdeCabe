@@ -65,12 +65,6 @@
         android:testOnly="true"
         android:theme="@style/Theme.IdeCabe" >
         <activity
-            android:name="com.example.idecabe.AccountActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.idecabe.addCollaborator"
-            android:exported="false" />
-        <activity
             android:name="com.example.idecabe.ui.project.ProjectActivity"
             android:exported="true" />
         <activity
@@ -174,6 +168,9 @@
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"

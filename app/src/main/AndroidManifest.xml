@@ -19,12 +19,6 @@
         android:theme="@style/Theme.IdeCabe"
         tools:targetApi="31">
         <activity
-            android:name=".AccountActivity"
-            android:exported="false" />
-        <activity
-            android:name=".addCollaborator"
-            android:exported="false" />
-        <activity
             android:name=".ui.project.ProjectActivity"
             android:exported="true" />
         <activity

@@ -7,6 +7,7 @@ import com.example.idecabe.core.sources.remote.repositories.AuthRepository
 import com.example.idecabe.core.sources.remote.repositories.ProjectRepository
 import com.example.idecabe.core.sources.remote.repositories.ProjectRepositoryImp
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.StorageReference
 import com.google.gson.Gson
@@ -26,6 +27,8 @@ object RepositoryModules {
         return HomeRepositoryImp(database)
     }
 
+
+
 //    @Provides
 //    @Singleton
 //    fun provideAutghRepository(
@@ -37,12 +40,20 @@ object RepositoryModules {
 ////        return AuthRepositoryImp(auth,database,appPreferences,gson)
 //    }
 
+//    @Provides
+//    @Singleton
+//    fun provideNoteRepository(
+//        database: FirebaseDatabase,
+//        storageReference: StorageReference
+//    ): ProjectRepository {
+//        return ProjectRepositoryImp(database)
+//    }
+
     @Provides
     @Singleton
-    fun provideNoteRepository(
-        database: FirebaseFirestore,
-        storageReference: StorageReference
-    ): ProjectRepository {
+    fun provideProjectReposiory(
+        database: FirebaseDatabase
+    ): ProjectRepository{
         return ProjectRepositoryImp(database)
     }
 
