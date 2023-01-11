@@ -4,4 +4,5 @@ import dagger.hilt.android.AndroidEntryPoint
 
 
 interface HomeRepository {
+
 }

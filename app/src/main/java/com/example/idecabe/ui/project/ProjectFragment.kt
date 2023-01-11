@@ -12,6 +12,8 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.idecabe.core.sources.remote.model.Project
 import com.example.idecabe.databinding.FragmentProject2Binding
+import com.example.idecabe.util.hide
+import com.example.idecabe.util.show
 import com.example.idecabe.util.toast
 import com.example.idecabe.utils.UiState
 import com.google.firebase.auth.FirebaseAuth
@@ -20,15 +22,11 @@ import dagger.hilt.android.AndroidEntryPoint
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import java.time.format.FormatStyle
+import java.util.*
 
 @AndroidEntryPoint
 class ProjectFragment(private val project: Project? = null) : Fragment() {
 
-    companion object {
-        fun newInstance() = ProjectFragment()
-    }
-
-    var isSuccessAddTask: Boolean = false
     val auth = FirebaseAuth.getInstance()
 
     private lateinit var viewModel: ProjectViewModel
@@ -43,43 +41,42 @@ class ProjectFragment(private val project: Project? = null) : Fragment() {
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
         viewModel = ViewModelProvider(this).get(ProjectViewModel::class.java)
         // TODO: Use the ViewModel
 
         binding.saveButton.setOnClickListener {
             if (validation()){
                 val userId = auth.currentUser?.uid.toString()
-                val currentTime = LocalDateTime.now()
-                val formatter = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM)
-                val formatted = currentTime.format(formatter).toString()
-                project?.project_name = binding.etProjectName.text.toString()
-                project?.date = formatted
-                project?.user_id = userId
-                if (project != null) {
-                    viewModel.addProject(project)
-                }else {
-                    Toast.makeText(activity, "Please fill all of the fields", Toast.LENGTH_LONG)
+                if (validation()){
+                    viewModel.addProject(Project(
+                        id = "",
+                        user_id = userId,
+                        project_name = binding.etProjectName.text.toString(),
+                        date = Date()
+                    ))
                 }
             }
         }
-    }
-
-    private fun observer() {
-        viewModel.addProject.observe(viewLifecycleOwner) { state ->
-            when (state) {
+        viewModel.addProject.observe(viewLifecycleOwner){state ->
+            when (state){
                 is UiState.Loading -> {
-                    Toast.makeText(activity, "Loading", Toast.LENGTH_SHORT)
+                    binding.progressBar.show()
                 }
+
                 is UiState.Failure -> {
+                    binding.progressBar.hide()
                     toast(state.error)
                 }
+
                 is UiState.Success -> {
-                    isSuccessAddTask = true
-                    toast(state.data.second)
+                    binding.progressBar.hide()
+                    toast("Project has been Uploaded!")
                 }
             }
+
         }
     }
 
@@ -96,9 +93,8 @@ class ProjectFragment(private val project: Project? = null) : Fragment() {
 
     private fun validation(): Boolean {
         var isValid = true
-        if (binding.etProjectName.isNull()){
+        if (binding.etProjectName.text.isNullOrEmpty()){
             isValid = false
-            Toast.makeText(activity, "Please fill the empty fields", Toast.LENGTH_LONG)
         }
         return isValid
     }

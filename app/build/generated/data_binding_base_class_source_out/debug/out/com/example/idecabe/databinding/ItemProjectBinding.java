@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -22,10 +23,23 @@ public final class ItemProjectBinding implements ViewBinding {
   @NonNull
   public final ImageView imageProdukCategory;
 
-  private ItemProjectBinding(@NonNull LinearLayout rootView,
-      @NonNull ImageView imageProdukCategory) {
+  @NonNull
+  public final TextView projectName;
+
+  @NonNull
+  public final TextView textCountPhotos;
+
+  @NonNull
+  public final TextView textLabel;
+
+  private ItemProjectBinding(@NonNull LinearLayout rootView, @NonNull ImageView imageProdukCategory,
+      @NonNull TextView projectName, @NonNull TextView textCountPhotos,
+      @NonNull TextView textLabel) {
     this.rootView = rootView;
     this.imageProdukCategory = imageProdukCategory;
+    this.projectName = projectName;
+    this.textCountPhotos = textCountPhotos;
+    this.textLabel = textLabel;
   }
 
   @Override
@@ -61,7 +75,26 @@ public final class ItemProjectBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemProjectBinding((LinearLayout) rootView, imageProdukCategory);
+      id = R.id.project_name;
+      TextView projectName = ViewBindings.findChildViewById(rootView, id);
+      if (projectName == null) {
+        break missingId;
+      }
+
+      id = R.id.text_count_photos;
+      TextView textCountPhotos = ViewBindings.findChildViewById(rootView, id);
+      if (textCountPhotos == null) {
+        break missingId;
+      }
+
+      id = R.id.text_label;
+      TextView textLabel = ViewBindings.findChildViewById(rootView, id);
+      if (textLabel == null) {
+        break missingId;
+      }
+
+      return new ItemProjectBinding((LinearLayout) rootView, imageProdukCategory, projectName,
+          textCountPhotos, textLabel);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

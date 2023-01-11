@@ -8,8 +8,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.ViewModelProvider
-import com.example.idecabe.BottomNavigationActivity
+import androidx.fragment.app.viewModels
 import com.example.idecabe.databinding.FragmentHomeBinding
 import com.example.idecabe.ui.auth.LoginActivity
 import com.google.firebase.auth.FirebaseAuth
@@ -18,10 +17,17 @@ import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class HomeFragment : Fragment() {
-
     private var _binding: FragmentHomeBinding? = null
     private lateinit var firebaseAuth:  FirebaseAuth
     private lateinit var firestore: FirebaseFirestore
+    val homeViewModel: HomeViewModel by viewModels()
+    private val adapter by lazy {
+        HomeAdapter(
+            onItemClicked ={ pos, item ->
+
+            }
+        )
+    }
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -30,10 +36,10 @@ class HomeFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
-        savedInstanceState: Bundle?
+        savedInstanceState: Bundle?,
+
     ): View {
-        val homeViewModel =
-            ViewModelProvider(this).get(HomeViewModel::class.java)
+
 
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
         (activity as AppCompatActivity?)!!.supportActionBar!!.hide()
@@ -47,6 +53,13 @@ class HomeFragment : Fragment() {
         return root
     }
 
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        binding.recyclerViewhome.adapter = adapter
+        homeViewModel.getProjects()
+        
+    }
+
     override fun onStart() {
         super.onStart()
         val firebaseUser = firebaseAuth.currentUser
@@ -55,12 +68,7 @@ class HomeFragment : Fragment() {
             val intent = Intent(this.activity, LoginActivity::class.java)
             startActivity(intent)
         }else {
-            val currentUser: String = firebaseAuth.currentUser?.uid.toString()
-            firestore.collection("Users").document(currentUser).get().addOnCompleteListener({
-                if (it.isSuccessful){
-                    startActivity(Intent(this.activity, BottomNavigationActivity::class.java))
-                }
-            })
+            homeViewModel.getProjects()
         }
     }
 

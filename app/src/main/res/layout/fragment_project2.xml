@@ -217,8 +217,17 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="Save"
+            android:layout_marginTop="@dimen/_8sdp"
             android:backgroundTint="@color/colorAccent"
-            />
+            >
+        </Button>
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="@dimen/_32sdp"
+            android:layout_height="@dimen/_32sdp"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:visibility="invisible"/>
     </LinearLayout>
 
     <TextView

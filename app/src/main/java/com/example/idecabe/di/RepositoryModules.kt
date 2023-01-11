@@ -52,7 +52,7 @@ object RepositoryModules {
     @Provides
     @Singleton
     fun provideProjectReposiory(
-        database: FirebaseDatabase
+        database: FirebaseFirestore
     ): ProjectRepository{
         return ProjectRepositoryImp(database)
     }

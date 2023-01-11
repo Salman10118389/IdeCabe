@@ -124,6 +124,10 @@
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\xml\\backup_rules.xml"
     },
     {
+        "merged": "com.example.idecabe.app-merged_res-68:/layout_item_project.xml.flat",
+        "source": "com.example.idecabe.app-main-70:/layout/item_project.xml"
+    },
+    {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
@@ -202,6 +206,10 @@
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_asset_addphotos.png.flat",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\drawable\\asset_addphotos.png"
+    },
+    {
+        "merged": "com.example.idecabe.app-merged_res-68:/layout_fragment_home.xml.flat",
+        "source": "com.example.idecabe.app-main-70:/layout/fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-merged_res-68:\\drawable_ic_launcher_background.xml.flat",

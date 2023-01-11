@@ -4,12 +4,20 @@
         "source": "com.example.idecabe.app-main-70:/layout/fragment_project2.xml"
     },
     {
+        "merged": "com.example.idecabe.app-mergeDebugResources-67:/layout/item_project.xml",
+        "source": "com.example.idecabe.app-main-70:/layout/item_project.xml"
+    },
+    {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\activity_project_detail.xml",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_project_detail.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\activity_login.xml",
         "source": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-main-70:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.idecabe.app-mergeDebugResources-67:/layout/fragment_home.xml",
+        "source": "com.example.idecabe.app-main-70:/layout/fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\Hacktive\\.gradle\\daemon\\7.3.3\\com.example.idecabe.app-mergeDebugResources-67:\\layout\\fragment_notifications.xml",

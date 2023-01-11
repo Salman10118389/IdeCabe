@@ -7,6 +7,7 @@ import com.example.idecabe.core.sources.remote.model.Project
 import com.example.idecabe.core.sources.remote.repositories.ProjectRepository
 import com.example.idecabe.core.sources.remote.repositories.ProjectRepositoryImp
 import com.example.idecabe.utils.UiState
+import com.google.firebase.firestore.auth.User
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 @HiltViewModel
@@ -22,4 +23,6 @@ class ProjectViewModel@Inject constructor(val repository: ProjectRepository) : V
             _addProject.value = it
         }
     }
+
+
 }

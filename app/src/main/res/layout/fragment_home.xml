@@ -87,6 +87,7 @@
                 />
 
             <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerViewhome"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -95,8 +96,6 @@
                 android:orientation="vertical"
                 android:visibility="visible"
                 app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-                app:spanCount="3"
-                tools:itemCount="3"
                 tools:listitem="@layout/item_project"
                 />
         </LinearLayout>

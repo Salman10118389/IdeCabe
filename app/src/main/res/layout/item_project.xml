@@ -32,6 +32,7 @@
         android:layout_marginStart="@dimen/_10sdp"
         >
         <TextView
+            android:id="@+id/project_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Project Name 1"
@@ -41,6 +42,7 @@
             />
 
         <TextView
+            android:id="@+id/text_label"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Label : "
@@ -50,6 +52,7 @@
             />
 
         <TextView
+            android:id="@+id/text_count_photos"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="6 photos"
